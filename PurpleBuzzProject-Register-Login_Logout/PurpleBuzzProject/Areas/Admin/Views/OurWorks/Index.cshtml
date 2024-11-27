@@ -1,0 +1,143 @@
+﻿@* @model IEnumerable<PurpleBuzzProject.Models.OurWork>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a class=" btn btn-success  mb-3 mt-3" asp-area="Admin" asp-controller="OurWorks" asp-action="Create">Create</a>
+    
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ImgUrl)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OurService)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CreatedAt)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UpdatedAt)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ImgUrl)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.OurService.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreatedAt)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UpdatedAt)
+            </td>
+            <td>
+                
+                <a asp-action="Details" asp-route-id="@item.Id">Update</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table> *@
+
+
+
+@model IEnumerable<OurWork>
+
+
+<!-- Begin Page Content -->
+<div class="container-fluid">
+
+    <!-- Page Heading -->
+    <h1 class="h3 mb-2 text-gray-800">Tables</h1>
+   
+
+    <!-- DataTales Example -->
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">Works</h6>
+        </div>
+        <div class="card-body">
+            <div class="table-responsive">
+
+                <a class=" btn btn-success  mb-3 mt-3" asp-area="Admin" asp-controller="OurWorks" asp-action="Create">Create</a>
+
+                <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>ServiceID</th>
+                            <th>Title</th>
+                            <th>Description</th>
+                            <th>Image</th>
+                            <th>CreateAt</th>
+                            <th>UpdateAt</th>
+                            <th>Update</th>
+                            <th>Delete</th>
+
+
+                        </tr>
+                    </thead>
+                    <tfoot>
+                        <tr>
+                            <th>ID</th>
+                            <th>ServiceID</th>
+                            <th>Title</th>
+                            <th>Description</th>
+                            <th>Image</th>
+                            <th>CreateAt</th>
+                            <th>UpdateAt</th>
+                            <th>Update</th>
+                            <th>Delete</th>
+                        </tr>
+                    </tfoot>
+                    <tbody>
+                        @foreach (OurWork item in Model)
+                        {
+                            <tr>
+                                <td>@item.Id</td>
+                                <td>@item.OurServiceId</td>
+                                <td>@item.Title</td>
+                                <td>@item.Description</td>
+                                <td> <img src="~/img/@item.ImgUrl" width="80" alt="img error" /></td>
+                                <td>@item.CreatedAt</td>
+                                <td>@item.UpdatedAt</td>
+                                <td> <a class="btn btn-success" asp-area="Admin" asp-controller="OurWorks" asp-action="Update" asp-route-id="@item.Id">Update</a></td>
+                                <td> <a class="btn btn-danger">Delete</a></td>
+                            </tr>
+                        }
+
+
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+</div>

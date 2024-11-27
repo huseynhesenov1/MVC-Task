@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PurpleBuzzProject",
+    "\\PurpleBuzzProject\\Areas",
+    "\\PurpleBuzzProject\\Areas\\Admin",
+    "\\PurpleBuzzProject\\Areas\\Admin\\Controllers",
+    "\\PurpleBuzzProject\\Controllers",
+    "\\PurpleBuzzProject\\DAL",
+    "\\PurpleBuzzProject\\Views",
+    "\\PurpleBuzzProject\\Views\\Accounts",
+    "\\PurpleBuzzProject\\Views\\Home"
+  ],
+  "SelectedNode": "\\PurpleBuzzProject\\Views\\Accounts\\Register.cshtml",
+  "PreviewInSolutionExplorer": false
+}
