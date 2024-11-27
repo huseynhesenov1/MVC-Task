@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PurpleBuzzProject",
+    "\\PurpleBuzzProject\\Areas",
+    "\\PurpleBuzzProject\\Areas\\Admin",
+    "\\PurpleBuzzProject\\Areas\\Admin\\Controllers",
+    "\\PurpleBuzzProject\\Controllers",
+    "\\PurpleBuzzProject\\DAL",
+    "\\PurpleBuzzProject\\Views",
+    "\\PurpleBuzzProject\\Views\\Home"
+  ],
+  "SelectedNode": "\\PurpleBuzzProject\\DAL\\AppDbContext.cs",
+  "PreviewInSolutionExplorer": false
+}
