@@ -17,6 +17,16 @@ namespace MediplusProject.Areas.Admin.Controllers
             List<SliderItem> sliderItems = _context.SliderItems.ToList();
             return View(sliderItems);
         }
-        
-	}
+        public IActionResult Delete(int Id)
+        {
+            SliderItem? sliderItem = _context.SliderItems.Find(Id);
+            if (sliderItem == null)
+            {
+                return NotFound("Not Found Service");
+            }
+            _context.SliderItems.Remove(sliderItem);
+            _context.SaveChanges();
+            return RedirectToAction(nameof(Index), "Home");
+        }
+    }
 }

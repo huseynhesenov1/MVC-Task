@@ -1,97 +1,97 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\",
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\source\\repos\\mediplusproject\\mediplusproject\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|solutionrelative:mediplusproject\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\source\\repos\\mediplusproject\\mediplusproject\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\desktop\\mvc\\mediplusproject\\mediplusproject\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|solutionrelative:mediplusproject\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\source\\repos\\mediplusproject\\mediplusproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|solutionrelative:mediplusproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\source\\repos\\mediplusproject\\mediplusproject\\viewmodels\\home\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|solutionrelative:mediplusproject\\viewmodels\\home\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\source\\repos\\mediplusproject\\mediplusproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|solutionrelative:mediplusproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\source\\repos\\mediplusproject\\mediplusproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|solutionrelative:mediplusproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\source\\repos\\mediplusproject\\mediplusproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|solutionrelative:mediplusproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\source\\repos\\mediplusproject\\mediplusproject\\models\\homecard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|solutionrelative:mediplusproject\\models\\homecard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\source\\repos\\mediplusproject\\mediplusproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|solutionrelative:mediplusproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\source\\repos\\mediplusproject\\mediplusproject\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|solutionrelative:mediplusproject\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\source\\repos\\mediplusproject\\mediplusproject\\models\\scores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|solutionrelative:mediplusproject\\models\\scores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\source\\repos\\mediplusproject\\mediplusproject\\models\\slideritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|solutionrelative:mediplusproject\\models\\slideritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\source\\repos\\mediplusproject\\mediplusproject\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|solutionrelative:mediplusproject\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\source\\repos\\mediplusproject\\mediplusproject\\models\\coursel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|solutionrelative:mediplusproject\\models\\coursel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\source\\repos\\mediplusproject\\mediplusproject\\mediplusproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|solutionrelative:mediplusproject\\mediplusproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\source\\repos\\mediplusproject\\mediplusproject\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\desktop\\mvc\\mediplusproject\\mediplusproject\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|solutionrelative:mediplusproject\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\source\\repos\\mediplusproject\\mediplusproject\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\desktop\\mvc\\mediplusproject\\mediplusproject\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|solutionrelative:mediplusproject\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\desktop\\mvc\\mediplusproject\\mediplusproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|solutionrelative:mediplusproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\desktop\\mvc\\mediplusproject\\mediplusproject\\viewmodels\\home\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|solutionrelative:mediplusproject\\viewmodels\\home\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\desktop\\mvc\\mediplusproject\\mediplusproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|solutionrelative:mediplusproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\desktop\\mvc\\mediplusproject\\mediplusproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|solutionrelative:mediplusproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\desktop\\mvc\\mediplusproject\\mediplusproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|solutionrelative:mediplusproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\desktop\\mvc\\mediplusproject\\mediplusproject\\models\\homecard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|solutionrelative:mediplusproject\\models\\homecard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\desktop\\mvc\\mediplusproject\\mediplusproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|solutionrelative:mediplusproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\desktop\\mvc\\mediplusproject\\mediplusproject\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|solutionrelative:mediplusproject\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\desktop\\mvc\\mediplusproject\\mediplusproject\\models\\scores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|solutionrelative:mediplusproject\\models\\scores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\desktop\\mvc\\mediplusproject\\mediplusproject\\models\\slideritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|solutionrelative:mediplusproject\\models\\slideritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\desktop\\mvc\\mediplusproject\\mediplusproject\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|solutionrelative:mediplusproject\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\desktop\\mvc\\mediplusproject\\mediplusproject\\models\\coursel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|solutionrelative:mediplusproject\\models\\coursel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\desktop\\mvc\\mediplusproject\\mediplusproject\\mediplusproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|solutionrelative:mediplusproject\\mediplusproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\desktop\\mvc\\mediplusproject\\mediplusproject\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|solutionrelative:mediplusproject\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\source\\repos\\mediplusproject\\mediplusproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\desktop\\mvc\\mediplusproject\\mediplusproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|solutionrelative:mediplusproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\source\\repos\\mediplusproject\\mediplusproject\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\desktop\\mvc\\mediplusproject\\mediplusproject\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|solutionrelative:mediplusproject\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\source\\repos\\mediplusproject\\mediplusproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\desktop\\mvc\\mediplusproject\\mediplusproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|solutionrelative:mediplusproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\source\\repos\\mediplusproject\\mediplusproject\\migrations\\20241128200754_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\desktop\\mvc\\mediplusproject\\mediplusproject\\migrations\\20241128200754_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|solutionrelative:mediplusproject\\migrations\\20241128200754_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\source\\repos\\mediplusproject\\mediplusproject\\migrations\\20241129074829_inithomecard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\desktop\\mvc\\mediplusproject\\mediplusproject\\migrations\\20241129074829_inithomecard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|solutionrelative:mediplusproject\\migrations\\20241129074829_inithomecard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\source\\repos\\mediplusproject\\mediplusproject\\migrations\\20241129070147_initcourseltable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\desktop\\mvc\\mediplusproject\\mediplusproject\\migrations\\20241129070147_initcourseltable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|solutionrelative:mediplusproject\\migrations\\20241129070147_initcourseltable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -102,31 +102,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\MediplusProject\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\MediplusProject\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "MediplusProject\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\MediplusProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\MediplusProject\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "MediplusProject\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-28T18:52:57.802Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\MediplusProject\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\MediplusProject\\Areas\\Admin\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "MediplusProject\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\MediplusProject\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\MediplusProject\\Areas\\Admin\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "MediplusProject\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC4AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACMAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-28T20:32:13.418Z",
               "IsPinned": true,
@@ -138,141 +137,145 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\MediplusProject\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MediplusProject\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\MediplusProject\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MediplusProject\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAHYAAAAAAAAAAAArwIQAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-28T18:53:23.992Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\MediplusProject\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\MediplusProject\\Areas\\Admin\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MediplusProject\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\MediplusProject\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\MediplusProject\\Areas\\Admin\\Controllers\\HomeController.cs",
               "RelativeToolTip": "MediplusProject\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T20:31:25.042Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "HomeCard.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\MediplusProject\\Models\\HomeCard.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\MediplusProject\\Models\\HomeCard.cs",
               "RelativeDocumentMoniker": "MediplusProject\\Models\\HomeCard.cs",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\MediplusProject\\Models\\HomeCard.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\MediplusProject\\Models\\HomeCard.cs",
               "RelativeToolTip": "MediplusProject\\Models\\HomeCard.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T07:45:36.963Z",
+              "WhenOpened": "2024-11-29T07:45:36.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\MediplusProject\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MediplusProject\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\MediplusProject\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MediplusProject\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T18:53:51.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\MediplusProject\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MediplusProject\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\MediplusProject\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MediplusProject\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T18:53:33.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\MediplusProject\\ViewModels\\Home\\HomeVM.cs",
+              "RelativeDocumentMoniker": "MediplusProject\\ViewModels\\Home\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\MediplusProject\\ViewModels\\Home\\HomeVM.cs",
+              "RelativeToolTip": "MediplusProject\\ViewModels\\Home\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T07:30:18.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\MediplusProject\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MediplusProject\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\MediplusProject\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MediplusProject\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T20:33:25.671Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\MediplusProject\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "MediplusProject\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\MediplusProject\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "MediplusProject\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\MediplusProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MediplusProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\MediplusProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MediplusProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAHYAAAAAAAAAAAArwIQAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-28T18:53:51.942Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\MediplusProject\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "MediplusProject\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\MediplusProject\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "MediplusProject\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-28T18:53:33.935Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomeVM.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\MediplusProject\\ViewModels\\Home\\HomeVM.cs",
-              "RelativeDocumentMoniker": "MediplusProject\\ViewModels\\Home\\HomeVM.cs",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\MediplusProject\\ViewModels\\Home\\HomeVM.cs",
-              "RelativeToolTip": "MediplusProject\\ViewModels\\Home\\HomeVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T07:30:18.546Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\MediplusProject\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "MediplusProject\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\MediplusProject\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "MediplusProject\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T18:52:44.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T18:53:23.992Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\MediplusProject\\DAL\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "MediplusProject\\DAL\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\MediplusProject\\DAL\\AppDbContext.cs",
-              "RelativeToolTip": "MediplusProject\\DAL\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\MediplusProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MediplusProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\MediplusProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MediplusProject\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T19:50:44.541Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SliderItem.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\MediplusProject\\Models\\SliderItem.cs",
-              "RelativeDocumentMoniker": "MediplusProject\\Models\\SliderItem.cs",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\MediplusProject\\Models\\SliderItem.cs",
-              "RelativeToolTip": "MediplusProject\\Models\\SliderItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T19:41:48.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T18:52:44.951Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\MediplusProject\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MediplusProject\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\MediplusProject\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "MediplusProject\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T19:50:44.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SliderItem.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\MediplusProject\\Models\\SliderItem.cs",
+              "RelativeDocumentMoniker": "MediplusProject\\Models\\SliderItem.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\MediplusProject\\Models\\SliderItem.cs",
+              "RelativeToolTip": "MediplusProject\\Models\\SliderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T19:41:48.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Scores.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\MediplusProject\\Models\\Scores.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\MediplusProject\\Models\\Scores.cs",
               "RelativeDocumentMoniker": "MediplusProject\\Models\\Scores.cs",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\MediplusProject\\Models\\Scores.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\MediplusProject\\Models\\Scores.cs",
               "RelativeToolTip": "MediplusProject\\Models\\Scores.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T18:39:11.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T18:39:11.676Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\MediplusProject\\ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\MediplusProject\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "MediplusProject\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\MediplusProject\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\MediplusProject\\ScaffoldingReadMe.txt",
               "RelativeToolTip": "MediplusProject\\ScaffoldingReadMe.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
@@ -280,24 +283,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\MediplusProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\MediplusProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MediplusProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\MediplusProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\MediplusProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "MediplusProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAN4AAAAAAAAAAAAAAMYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-28T20:32:49.215Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T20:32:49.215Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Coursel.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\MediplusProject\\Models\\Coursel.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\MediplusProject\\Models\\Coursel.cs",
               "RelativeDocumentMoniker": "MediplusProject\\Models\\Coursel.cs",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\MediplusProject\\Models\\Coursel.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\MediplusProject\\Models\\Coursel.cs",
               "RelativeToolTip": "MediplusProject\\Models\\Coursel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -307,9 +309,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "20241129074829_initHomeCard.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\MediplusProject\\Migrations\\20241129074829_initHomeCard.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\MediplusProject\\Migrations\\20241129074829_initHomeCard.cs",
               "RelativeDocumentMoniker": "MediplusProject\\Migrations\\20241129074829_initHomeCard.cs",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\MediplusProject\\Migrations\\20241129074829_initHomeCard.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\MediplusProject\\Migrations\\20241129074829_initHomeCard.cs",
               "RelativeToolTip": "MediplusProject\\Migrations\\20241129074829_initHomeCard.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -319,9 +321,9 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "20241129070147_initCourselTable.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\MediplusProject\\Migrations\\20241129070147_initCourselTable.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\MediplusProject\\Migrations\\20241129070147_initCourselTable.cs",
               "RelativeDocumentMoniker": "MediplusProject\\Migrations\\20241129070147_initCourselTable.cs",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\MediplusProject\\Migrations\\20241129070147_initCourselTable.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\MediplusProject\\Migrations\\20241129070147_initCourselTable.cs",
               "RelativeToolTip": "MediplusProject\\Migrations\\20241129070147_initCourselTable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -329,11 +331,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "MediplusProject.csproj",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\MediplusProject\\MediplusProject.csproj",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\MediplusProject\\MediplusProject.csproj",
               "RelativeDocumentMoniker": "MediplusProject\\MediplusProject.csproj",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\MediplusProject\\MediplusProject.csproj",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\MediplusProject\\MediplusProject.csproj",
               "RelativeToolTip": "MediplusProject\\MediplusProject.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -343,9 +345,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\MediplusProject\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\MediplusProject\\appsettings.json",
               "RelativeDocumentMoniker": "MediplusProject\\appsettings.json",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\MediplusProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\MediplusProject\\appsettings.json",
               "RelativeToolTip": "MediplusProject\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -355,9 +357,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\MediplusProject\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\MediplusProject\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "MediplusProject\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\MediplusProject\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\MediplusProject\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "MediplusProject\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -365,23 +367,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\MediplusProject\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "MediplusProject\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\MediplusProject\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "MediplusProject\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-28T20:33:25.671Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 17,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\MediplusProject\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\MediplusProject\\Program.cs",
               "RelativeDocumentMoniker": "MediplusProject\\Program.cs",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\MediplusProject\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\MediplusProject\\Program.cs",
               "RelativeToolTip": "MediplusProject\\Program.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwBsAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -391,9 +381,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "20241128200754_init.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\MediplusProject\\Migrations\\20241128200754_init.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\MediplusProject\\Migrations\\20241128200754_init.cs",
               "RelativeDocumentMoniker": "MediplusProject\\Migrations\\20241128200754_init.cs",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\MediplusProject\\Migrations\\20241128200754_init.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\MediplusProject\\Migrations\\20241128200754_init.cs",
               "RelativeToolTip": "MediplusProject\\Migrations\\20241128200754_init.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

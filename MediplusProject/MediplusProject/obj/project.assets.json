@@ -7601,11 +7601,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\MediplusProject\\MediplusProject.csproj",
+      "projectUniqueName": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\MediplusProject\\MediplusProject.csproj",
       "projectName": "MediplusProject",
-      "projectPath": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\MediplusProject\\MediplusProject.csproj",
+      "projectPath": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\MediplusProject\\MediplusProject.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ACER\\source\\repos\\MediplusProject\\MediplusProject\\obj\\",
+      "outputPath": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject\\MediplusProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
