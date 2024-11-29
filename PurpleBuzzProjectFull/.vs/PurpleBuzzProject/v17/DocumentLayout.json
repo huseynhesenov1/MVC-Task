@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProjectFull\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\mvc\\purplebuzzprojectfull\\purplebuzzproject\\views\\accounts\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|solutionrelative:purplebuzzproject\\views\\accounts\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\mvc\\purplebuzzprojectfull\\purplebuzzproject\\viewmodels\\ourworkvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|solutionrelative:purplebuzzproject\\viewmodels\\ourworkvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\mvc\\purplebuzzprojectfull\\purplebuzzproject\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|solutionrelative:purplebuzzproject\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\mvc\\purplebuzzprojectfull\\purplebuzzproject\\dtos\\userdtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|solutionrelative:purplebuzzproject\\dtos\\userdtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\mvc\\purplebuzzprojectfull\\purplebuzzproject\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|solutionrelative:purplebuzzproject\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\mvc\\purplebuzzprojectfull\\purplebuzzproject\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,52 +19,8 @@
       "RelativeMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|solutionrelative:purplebuzzproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\mvc\\purplebuzzprojectfull\\purplebuzzproject\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|solutionrelative:purplebuzzproject\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\mvc\\purplebuzzprojectfull\\purplebuzzproject\\areas\\admin\\controllers\\ourworkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|solutionrelative:purplebuzzproject\\areas\\admin\\controllers\\ourworkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\mvc\\purplebuzzprojectfull\\purplebuzzproject\\areas\\admin\\controllers\\serviceadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|solutionrelative:purplebuzzproject\\areas\\admin\\controllers\\serviceadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\mvc\\purplebuzzprojectfull\\purplebuzzproject\\areas\\admin\\views\\ourworks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|solutionrelative:purplebuzzproject\\areas\\admin\\views\\ourworks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\mvc\\purplebuzzprojectfull\\purplebuzzproject\\areas\\admin\\views\\serviceadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|solutionrelative:purplebuzzproject\\areas\\admin\\views\\serviceadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\mvc\\purplebuzzprojectfull\\purplebuzzproject\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|solutionrelative:purplebuzzproject\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\mvc\\purplebuzzprojectfull\\purplebuzzproject\\areas\\admin\\views\\ourworks\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|solutionrelative:purplebuzzproject\\areas\\admin\\views\\ourworks\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\mvc\\purplebuzzprojectfull\\purplebuzzproject\\models\\ourwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|solutionrelative:purplebuzzproject\\models\\ourwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\mvc\\purplebuzzprojectfull\\purplebuzzproject\\areas\\admin\\views\\serviceadmin\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|solutionrelative:purplebuzzproject\\areas\\admin\\views\\serviceadmin\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\mvc\\purplebuzzprojectfull\\purplebuzzproject\\areas\\admin\\views\\ourworks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|solutionrelative:purplebuzzproject\\areas\\admin\\views\\ourworks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\mvc\\purplebuzzprojectfull\\purplebuzzproject\\areas\\admin\\views\\serviceadmin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|solutionrelative:purplebuzzproject\\areas\\admin\\views\\serviceadmin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\mvc\\purplebuzzprojectfull\\purplebuzzproject\\migrations\\20241126224721_addappusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|solutionrelative:purplebuzzproject\\migrations\\20241126224721_addappusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\mvc\\purplebuzzprojectfull\\purplebuzzproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|solutionrelative:purplebuzzproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,220 +30,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "OurWorksController.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Areas\\Admin\\Controllers\\OurWorksController.cs",
-              "RelativeDocumentMoniker": "PurpleBuzzProject\\Areas\\Admin\\Controllers\\OurWorksController.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Areas\\Admin\\Controllers\\OurWorksController.cs",
-              "RelativeToolTip": "PurpleBuzzProject\\Areas\\Admin\\Controllers\\OurWorksController.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAkwDwAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T05:37:33.981Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ServiceAdminController.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Areas\\Admin\\Controllers\\ServiceAdminController.cs",
-              "RelativeDocumentMoniker": "PurpleBuzzProject\\Areas\\Admin\\Controllers\\ServiceAdminController.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Areas\\Admin\\Controllers\\ServiceAdminController.cs",
-              "RelativeToolTip": "PurpleBuzzProject\\Areas\\Admin\\Controllers\\ServiceAdminController.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAowFAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T06:29:11.463Z",
-              "IsPinned": true
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CreateUserDto.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProjectFull\\PurpleBuzzProject\\DTOs\\UserDTOs\\CreateUserDto.cs",
-              "RelativeDocumentMoniker": "PurpleBuzzProject\\DTOs\\UserDTOs\\CreateUserDto.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProjectFull\\PurpleBuzzProject\\DTOs\\UserDTOs\\CreateUserDto.cs",
-              "RelativeToolTip": "PurpleBuzzProject\\DTOs\\UserDTOs\\CreateUserDto.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAswBYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T23:10:29.489Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Views\\Accounts\\Register.cshtml",
-              "RelativeDocumentMoniker": "PurpleBuzzProject\\Views\\Accounts\\Register.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Views\\Accounts\\Register.cshtml",
-              "RelativeToolTip": "PurpleBuzzProject\\Views\\Accounts\\Register.cshtml",
-              "ViewState": "AgIAACIAAAAAAAAAAAAowDAAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T22:56:46.388Z",
+              "Title": "OurWorkVM.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProjectFull\\PurpleBuzzProject\\ViewModels\\OurWorkVM.cs",
+              "RelativeDocumentMoniker": "PurpleBuzzProject\\ViewModels\\OurWorkVM.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProjectFull\\PurpleBuzzProject\\ViewModels\\OurWorkVM.cs",
+              "RelativeToolTip": "PurpleBuzzProject\\ViewModels\\OurWorkVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T07:06:29.585Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AccountsController.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Controllers\\AccountsController.cs",
-              "RelativeDocumentMoniker": "PurpleBuzzProject\\Controllers\\AccountsController.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Controllers\\AccountsController.cs",
-              "RelativeToolTip": "PurpleBuzzProject\\Controllers\\AccountsController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwDAAAAAFAAAAAAAAAA==",
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "PurpleBuzzProject\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "PurpleBuzzProject\\Controllers\\AboutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T22:54:43.065Z",
+              "WhenOpened": "2024-11-28T20:14:10.697Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Program.cs",
-              "RelativeDocumentMoniker": "PurpleBuzzProject\\Program.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Program.cs",
-              "RelativeToolTip": "PurpleBuzzProject\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T22:33:39.584Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProjectFull\\PurpleBuzzProject\\DAL\\AppDbContext.cs",
               "RelativeDocumentMoniker": "PurpleBuzzProject\\DAL\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProjectFull\\PurpleBuzzProject\\DAL\\AppDbContext.cs",
               "RelativeToolTip": "PurpleBuzzProject\\DAL\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T21:43:56.731Z"
+              "WhenOpened": "2024-11-28T19:50:03.063Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "20241126224721_addAppUserTable.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Migrations\\20241126224721_addAppUserTable.cs",
-              "RelativeDocumentMoniker": "PurpleBuzzProject\\Migrations\\20241126224721_addAppUserTable.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Migrations\\20241126224721_addAppUserTable.cs",
-              "RelativeToolTip": "PurpleBuzzProject\\Migrations\\20241126224721_addAppUserTable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProjectFull\\PurpleBuzzProject\\appsettings.json",
+              "RelativeDocumentMoniker": "PurpleBuzzProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProjectFull\\PurpleBuzzProject\\appsettings.json",
+              "RelativeToolTip": "PurpleBuzzProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-28T19:50:00.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Program.cs",
+              "RelativeDocumentMoniker": "PurpleBuzzProject\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Program.cs",
+              "RelativeToolTip": "PurpleBuzzProject\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T22:47:21.858Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Models\\AppUser.cs",
-              "RelativeDocumentMoniker": "PurpleBuzzProject\\Models\\AppUser.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Models\\AppUser.cs",
-              "RelativeToolTip": "PurpleBuzzProject\\Models\\AppUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T21:16:17.308Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "OurWork.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Models\\OurWork.cs",
-              "RelativeDocumentMoniker": "PurpleBuzzProject\\Models\\OurWork.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Models\\OurWork.cs",
-              "RelativeToolTip": "PurpleBuzzProject\\Models\\OurWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T07:38:48.234Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Areas\\Admin\\Views\\OurWorks\\Update.cshtml",
-              "RelativeDocumentMoniker": "PurpleBuzzProject\\Areas\\Admin\\Views\\OurWorks\\Update.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Areas\\Admin\\Views\\OurWorks\\Update.cshtml",
-              "RelativeToolTip": "PurpleBuzzProject\\Areas\\Admin\\Views\\OurWorks\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T07:37:26.003Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Areas\\Admin\\Views\\ServiceAdmin\\Index.cshtml",
-              "RelativeDocumentMoniker": "PurpleBuzzProject\\Areas\\Admin\\Views\\ServiceAdmin\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Areas\\Admin\\Views\\ServiceAdmin\\Index.cshtml",
-              "RelativeToolTip": "PurpleBuzzProject\\Areas\\Admin\\Views\\ServiceAdmin\\Index.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAcwDUAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T06:38:53.818Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Areas\\Admin\\Views\\OurWorks\\Index.cshtml",
-              "RelativeDocumentMoniker": "PurpleBuzzProject\\Areas\\Admin\\Views\\OurWorks\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Areas\\Admin\\Views\\OurWorks\\Index.cshtml",
-              "RelativeToolTip": "PurpleBuzzProject\\Areas\\Admin\\Views\\OurWorks\\Index.cshtml",
-              "ViewState": "AgIAAGgAAAAAAAAAAAAtwIQAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T06:38:48.874Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Areas\\Admin\\Views\\OurWorks\\Create.cshtml",
-              "RelativeDocumentMoniker": "PurpleBuzzProject\\Areas\\Admin\\Views\\OurWorks\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Areas\\Admin\\Views\\OurWorks\\Create.cshtml",
-              "RelativeToolTip": "PurpleBuzzProject\\Areas\\Admin\\Views\\OurWorks\\Create.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAIBJwCMAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T06:38:42.81Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "PurpleBuzzProject\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "PurpleBuzzProject\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBJwEoBAABiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T06:37:07.041Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "update.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Areas\\Admin\\Views\\ServiceAdmin\\update.cshtml",
-              "RelativeDocumentMoniker": "PurpleBuzzProject\\Areas\\Admin\\Views\\ServiceAdmin\\update.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Areas\\Admin\\Views\\ServiceAdmin\\update.cshtml",
-              "RelativeToolTip": "PurpleBuzzProject\\Areas\\Admin\\Views\\ServiceAdmin\\update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T06:35:15.432Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Areas\\Admin\\Views\\ServiceAdmin\\create.cshtml",
-              "RelativeDocumentMoniker": "PurpleBuzzProject\\Areas\\Admin\\Views\\ServiceAdmin\\create.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Areas\\Admin\\Views\\ServiceAdmin\\create.cshtml",
-              "RelativeToolTip": "PurpleBuzzProject\\Areas\\Admin\\Views\\ServiceAdmin\\create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T06:34:41.951Z"
+              "WhenOpened": "2024-11-28T19:49:56.927Z"
             }
           ]
         }
