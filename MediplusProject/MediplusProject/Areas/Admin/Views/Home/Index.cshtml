@@ -23,7 +23,9 @@
                                         <th>
                                             Title
                                         </th>
-
+                                        <th>
+                                            IsDeleted
+                                        </th>
                                         <th>
                                             Image
                                         </th>
@@ -47,13 +49,16 @@
                                             <td>
                                                 @item.Title
                                             </td>
+                                            <td>
+                                                @item.IsDeleted
+                                            </td>
 
                                             <td>
                                                 <img src="~/img/@item.ImgPath" alt="image" />
                                             </td>
                                             <td><a class="btn btn-success">Update</a></td>
-                                            <td><a asp-area="Admin" asp-controller="Home" asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a></td>
-                                            <td><a asp-area="Admin" asp-controller="Home" asp-action="Details" class="btn btn-info">Details</a></td>
+                                            <td><a asp-area="Admin" asp-controller="Home" asp-action="SOftDelete" asp-route-id="@item.Id" class="btn btn-danger">Soft Delete</a></td>
+                                            <td><a asp-area="Admin" asp-controller="Home" asp-action="Details" asp-route-id="@item.Id" class="btn btn-info">Details</a></td>
                                         </tr>
                                     }
 

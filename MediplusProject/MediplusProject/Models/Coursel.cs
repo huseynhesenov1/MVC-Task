@@ -1,8 +1,7 @@
 ﻿namespace MediplusProject.Models;
 
-public class Coursel
+public class Coursel: BaseEntity
 {
-	public int Id { get; set; }
 	public string ImgPath { get; set; }
 
 }

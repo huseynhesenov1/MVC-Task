@@ -17,16 +17,58 @@ namespace MediplusProject.Areas.Admin.Controllers
             List<SliderItem> sliderItems = _context.SliderItems.ToList();
             return View(sliderItems);
         }
-        public IActionResult Delete(int Id)
+        public IActionResult SOftDelete(int Id)
         {
             SliderItem? sliderItem = _context.SliderItems.Find(Id);
             if (sliderItem == null)
             {
                 return NotFound("Not Found Service");
             }
+
+            sliderItem.IsDeleted = true;
+
+            //_context.SliderItems.Remove(sliderItem);
+            _context.SaveChanges();
+            return RedirectToAction(nameof(Index), "Home");
+        }
+        public IActionResult HardDelete(int Id)
+        {
+            SliderItem? sliderItem = _context.SliderItems.Find(Id);
+            if (sliderItem == null)
+            {
+                return NotFound("Not Found Service");
+            }
+
+
             _context.SliderItems.Remove(sliderItem);
             _context.SaveChanges();
             return RedirectToAction(nameof(Index), "Home");
         }
+
+        public IActionResult Details(int Id)
+        {
+            SliderItem? sliderItem = _context.SliderItems.Find(Id);
+            if (sliderItem == null)
+            {
+                return NotFound("Not Found Service");
+            }
+
+                return View(sliderItem);
+        }
+        public IActionResult Restore(int Id)
+        {
+            SliderItem? sliderItem = _context.SliderItems.Find(Id);
+            if (sliderItem == null)
+            {
+                return NotFound("Not Found Service");
+            }
+
+            sliderItem.IsDeleted = false;
+
+            //_context.SliderItems.Remove(sliderItem);
+            _context.SaveChanges();
+            return RedirectToAction(nameof(Index), "Home");
+        }
+
     }
 }
