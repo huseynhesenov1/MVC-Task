@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProject-Register\\PurpleBuzzProject\\PurpleBuzzProject.csproj": {}
+    "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProject-Register-Login_Logout\\PurpleBuzzProject\\PurpleBuzzProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProject-Register\\PurpleBuzzProject\\PurpleBuzzProject.csproj": {
+    "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProject-Register-Login_Logout\\PurpleBuzzProject\\PurpleBuzzProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProject-Register\\PurpleBuzzProject\\PurpleBuzzProject.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProject-Register-Login_Logout\\PurpleBuzzProject\\PurpleBuzzProject.csproj",
         "projectName": "PurpleBuzzProject",
-        "projectPath": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProject-Register\\PurpleBuzzProject\\PurpleBuzzProject.csproj",
+        "projectPath": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProject-Register-Login_Logout\\PurpleBuzzProject\\PurpleBuzzProject.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProject-Register\\PurpleBuzzProject\\obj\\",
+        "outputPath": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProject-Register-Login_Logout\\PurpleBuzzProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
