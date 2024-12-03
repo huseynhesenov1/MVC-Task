@@ -30,7 +30,6 @@ namespace Employe.Areas.Admin.Controllers
             ViewBag.Masters = new SelectList(_context.Masters.Where(m => m.IsActive == true), "Id", "Name");
 
             return View();
-
         }
 
 
