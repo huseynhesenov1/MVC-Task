@@ -1,0 +1,106 @@
+﻿@* @using MediplusProject.Areas.Admin.DTOs.DoctorDTOs *@
+@using MediplusProject.Models;
+@model Doctor;
+
+
+<div class="main-panel">
+    <div class="content-wrapper">
+        <div class="row">
+
+            <div class="col-lg-12 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">Striped Table</h4>
+
+                        <div class="table-responsive">
+                            <table class="table table-striped">
+                                <thead>
+                                    <tr>
+                                        <th>
+                                            #
+                                        </th>
+                                        <th>
+                                            Name
+                                        </th>
+                                        <th>
+                                            Surname
+                                        </th>
+                                        <th>
+                                            Finkod
+                                        </th>
+                                        <th>
+                                            PhoneNumber
+                                        </th>
+                                        <th>
+                                            Email
+                                        </th>
+                                        <th>
+                                            Username
+                                        </th>
+                                        
+                                        <th>Update</th>
+                                        <th>Delete</th>
+                                        <th>Details</th>
+
+
+
+                                    </tr>
+                                </thead>
+                                <tbody>
+
+
+
+                                    <tr>
+                                        <td class="py-1">
+                                            @Model.Id
+                                        </td>
+                                        <td>
+                                            @Model.Name
+                                        </td>
+                                        <td>
+                                            @Model.Surname
+                                        </td>
+                                        <td>
+                                            @Model.Finkod
+                                        </td>
+                                        <td>
+                                            @Model.PhoneNumber
+                                        </td>
+                                        <td>
+                                            @Model.Email
+                                        </td>
+                                        <td>
+                                            @Model.Username
+                                        </td>
+
+                                       
+
+
+
+
+
+                                        <td><a class="btn btn-success">Update</a></td>
+                                        <td><a asp-area="Admin" asp-controller="Home" asp-action="SOftDelete" asp-route-id="@Model.Id" class="btn btn-danger">Soft Delete</a></td>
+                                        <td><a asp-area="Admin" asp-controller="Doctor" asp-action="Details" asp-route-id="@Model.Id" class="btn btn-info">Details</a></td>
+                                    </tr>
+
+
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <!-- content-wrapper ends -->
+    <!-- partial:../../partials/_footer.html -->
+    <footer class="footer">
+        <div class="d-sm-flex justify-content-center justify-content-sm-between">
+            <span class="text-muted d-block text-center text-sm-left d-sm-inline-block">Huseyn Hesenov - 2024</span>
+            <span class="float-none float-sm-right d-block mt-1 mt-sm-0 text-center"> Muelliflik huququ tam qorunur ! </span>
+        </div>
+    </footer>
+    <!-- partial -->
+</div>

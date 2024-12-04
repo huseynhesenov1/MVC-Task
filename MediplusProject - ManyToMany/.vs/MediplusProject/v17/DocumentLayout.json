@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject - ManyToMany\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\desktop\\mvc\\mediplusproject - manytomany\\mediplusproject\\areas\\admin\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|solutionrelative:mediplusproject\\areas\\admin\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\desktop\\mvc\\mediplusproject - manytomany\\mediplusproject\\areas\\admin\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|solutionrelative:mediplusproject\\areas\\admin\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\desktop\\mvc\\mediplusproject - manytomany\\mediplusproject\\areas\\admin\\views\\doctor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|solutionrelative:mediplusproject\\areas\\admin\\views\\doctor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\desktop\\mvc\\mediplusproject - manytomany\\mediplusproject\\areas\\admin\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|solutionrelative:mediplusproject\\areas\\admin\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\desktop\\mvc\\mediplusproject - manytomany\\mediplusproject\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|solutionrelative:mediplusproject\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\desktop\\mvc\\mediplusproject - manytomany\\mediplusproject\\areas\\admin\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|solutionrelative:mediplusproject\\areas\\admin\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\desktop\\mvc\\mediplusproject - manytomany\\mediplusproject\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|solutionrelative:mediplusproject\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\desktop\\mvc\\mediplusproject - manytomany\\mediplusproject\\areas\\admin\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|solutionrelative:mediplusproject\\areas\\admin\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\desktop\\mvc\\mediplusproject - manytomany\\mediplusproject\\areas\\admin\\dtos\\doctordtos\\createdoctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|solutionrelative:mediplusproject\\areas\\admin\\dtos\\doctordtos\\createdoctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\desktop\\mvc\\mediplusproject - manytomany\\mediplusproject\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|solutionrelative:mediplusproject\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\desktop\\mvc\\mediplusproject - manytomany\\mediplusproject\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|solutionrelative:mediplusproject\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E6B6A2A-E023-49CB-AFCF-1596DE7DEB23}|MediplusProject\\MediplusProject.csproj|c:\\users\\acer\\desktop\\mvc\\mediplusproject - manytomany\\mediplusproject\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -74,24 +86,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "CreateDoctorDto.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject - ManyToMany\\MediplusProject\\Areas\\Admin\\DTOs\\DoctorDTOs\\CreateDoctorDto.cs",
               "RelativeDocumentMoniker": "MediplusProject\\Areas\\Admin\\DTOs\\DoctorDTOs\\CreateDoctorDto.cs",
               "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject - ManyToMany\\MediplusProject\\Areas\\Admin\\DTOs\\DoctorDTOs\\CreateDoctorDto.cs",
               "RelativeToolTip": "MediplusProject\\Areas\\Admin\\DTOs\\DoctorDTOs\\CreateDoctorDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T21:44:57.473Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject - ManyToMany\\MediplusProject\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
               "RelativeDocumentMoniker": "MediplusProject\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
@@ -110,32 +123,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject - ManyToMany\\MediplusProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MediplusProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject - ManyToMany\\MediplusProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MediplusProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAKgAAAAAAAAAAAAAAMAAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-04T07:01:41.634Z",
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject - ManyToMany\\MediplusProject\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "MediplusProject\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject - ManyToMany\\MediplusProject\\Models\\Doctor.cs",
+              "RelativeToolTip": "MediplusProject\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T08:14:56.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject - ManyToMany\\MediplusProject\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MediplusProject\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject - ManyToMany\\MediplusProject\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MediplusProject\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T08:11:42.341Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject - ManyToMany\\MediplusProject\\Areas\\Admin\\Views\\Doctor\\Details.cshtml",
+              "RelativeDocumentMoniker": "MediplusProject\\Areas\\Admin\\Views\\Doctor\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject - ManyToMany\\MediplusProject\\Areas\\Admin\\Views\\Doctor\\Details.cshtml",
+              "RelativeToolTip": "MediplusProject\\Areas\\Admin\\Views\\Doctor\\Details.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAwwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T08:11:00.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject - ManyToMany\\MediplusProject\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
               "RelativeDocumentMoniker": "MediplusProject\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
               "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject - ManyToMany\\MediplusProject\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
               "RelativeToolTip": "MediplusProject\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAEwAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwCMAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-03T22:13:56.023Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Hosbital.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject - ManyToMany\\MediplusProject\\Models\\Hosbital.cs",
               "RelativeDocumentMoniker": "MediplusProject\\Models\\Hosbital.cs",
@@ -147,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject - ManyToMany\\MediplusProject\\Areas\\Admin\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "MediplusProject\\Areas\\Admin\\Views\\Home\\Index.cshtml",
@@ -159,20 +198,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "DoctorController.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject - ManyToMany\\MediplusProject\\Areas\\Admin\\Controllers\\DoctorController.cs",
               "RelativeDocumentMoniker": "MediplusProject\\Areas\\Admin\\Controllers\\DoctorController.cs",
               "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject - ManyToMany\\MediplusProject\\Areas\\Admin\\Controllers\\DoctorController.cs",
               "RelativeToolTip": "MediplusProject\\Areas\\Admin\\Controllers\\DoctorController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBcAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAIwEYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T21:52:47.7Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject - ManyToMany\\MediplusProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MediplusProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject - ManyToMany\\MediplusProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MediplusProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAAAMAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T07:01:41.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "AppointmentController.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject - ManyToMany\\MediplusProject\\Areas\\Admin\\Controllers\\AppointmentController.cs",
               "RelativeDocumentMoniker": "MediplusProject\\Areas\\Admin\\Controllers\\AppointmentController.cs",
@@ -184,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "HosbitalDoctor.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject - ManyToMany\\MediplusProject\\Models\\HosbitalDoctor.cs",
               "RelativeDocumentMoniker": "MediplusProject\\Models\\HosbitalDoctor.cs",
@@ -196,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Appointment.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject - ManyToMany\\MediplusProject\\Models\\Appointment.cs",
               "RelativeDocumentMoniker": "MediplusProject\\Models\\Appointment.cs",
@@ -208,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject - ManyToMany\\MediplusProject\\Areas\\Admin\\Views\\Appointment\\Index.cshtml",
               "RelativeDocumentMoniker": "MediplusProject\\Areas\\Admin\\Views\\Appointment\\Index.cshtml",
@@ -220,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject - ManyToMany\\MediplusProject\\Areas\\Admin\\Views\\Appointment\\Create.cshtml",
               "RelativeDocumentMoniker": "MediplusProject\\Areas\\Admin\\Views\\Appointment\\Create.cshtml",
@@ -232,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "20241203211841_manytomanytable.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject - ManyToMany\\MediplusProject\\Migrations\\20241203211841_manytomanytable.cs",
               "RelativeDocumentMoniker": "MediplusProject\\Migrations\\20241203211841_manytomanytable.cs",
@@ -244,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "HomeVM.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject - ManyToMany\\MediplusProject\\ViewModels\\Home\\HomeVM.cs",
               "RelativeDocumentMoniker": "MediplusProject\\ViewModels\\Home\\HomeVM.cs",
@@ -256,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "AppointmentVM.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject - ManyToMany\\MediplusProject\\ViewModels\\Home\\AppointmentVM.cs",
               "RelativeDocumentMoniker": "MediplusProject\\ViewModels\\Home\\AppointmentVM.cs",
@@ -268,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject - ManyToMany\\MediplusProject\\DAL\\AppDbContext.cs",
               "RelativeDocumentMoniker": "MediplusProject\\DAL\\AppDbContext.cs",

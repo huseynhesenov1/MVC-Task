@@ -20,7 +20,7 @@ public class DoctorController : Controller
     }
     public IActionResult Index()
     {
-        //var doctorrr =  _context.Doctors.Include(d=>d.HosbitalDoctors).ToList();
+       
         List<Doctor>? doctor = _context.Doctors.Include(d => d.HosbitalDoctors).ThenInclude(h=>h.Hosbital).ToList();
         return View(doctor);
     }
@@ -67,5 +67,15 @@ public class DoctorController : Controller
         ViewBag.Hosbitals = new SelectList(_context.Hosbitals, "Id", "Name");
 
         return View(createDoctorDto);
+    }
+    public IActionResult Details(int Id)
+    {
+        Doctor? doctor = _context.Doctors.Find(Id);
+        if (doctor == null)
+        {
+            return NotFound("BU Id de uygun Doctor Tapilmadi");
+        }
+
+        return View(doctor);
     }
 }
