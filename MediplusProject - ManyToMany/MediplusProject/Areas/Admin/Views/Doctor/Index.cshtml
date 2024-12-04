@@ -12,7 +12,7 @@
                     <div class="card-body">
                         <h4 class="card-title">Striped Table</h4>
                         <p class="card-description">
-                            Add class <code>.table-striped</code>
+                            <a asp-area="Admin" asp-controller="Doctor" asp-action="Create" class="btn btn-success">Create</a>
                         </p>
                         <div class="table-responsive">
                             <table class="table table-striped">
@@ -38,6 +38,9 @@
                                         </th>
                                         <th>
                                             Username
+                                        </th>
+                                        <th>
+                                            Hosbitals
                                         </th>
                                         <th>Update</th>
                                         <th>Delete</th>
@@ -74,6 +77,15 @@
                                             <td>
                                                 @item.Username
                                             </td>
+
+                                                <td>
+                                            @foreach(var hosbital in item.HosbitalDoctors)
+                                            {
+													<span>@(hosbital.Hosbital?.Name ?? "")</span>
+												}
+                                                </td>
+
+                                           
 
 
                                            

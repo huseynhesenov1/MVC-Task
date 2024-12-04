@@ -3,6 +3,9 @@ using MediplusProject.DAL;
 using MediplusProject.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.EntityFrameworkCore;
+
+//using Microsoft.EntityFrameworkCore;
 using Microsoft.VisualStudio.Web.CodeGenerators.Mvc.Templates.BlazorIdentity.Pages.Manage;
 
 namespace MediplusProject.Areas.Admin.Controllers;
@@ -17,7 +20,8 @@ public class DoctorController : Controller
     }
     public IActionResult Index()
     {
-        List<Doctor> doctor = _context.Doctors.ToList();
+        //var doctorrr =  _context.Doctors.Include(d=>d.HosbitalDoctors).ToList();
+        List<Doctor>? doctor = _context.Doctors.Include(d => d.HosbitalDoctors).ThenInclude(h=>h.Hosbital).ToList();
         return View(doctor);
     }
     public IActionResult Create()
@@ -30,6 +34,13 @@ public class DoctorController : Controller
     {
         if (ModelState.IsValid)
         {
+            foreach (var hosbitalId in createDoctorDto.HosbitalDoctorIds)
+            {
+                if (!_context.Hosbitals.Any(e => e.Id == hosbitalId))
+                {
+                    return NotFound("Bu deyerde data tapilmadi");
+                }
+            }
             Doctor newDoctor = new Doctor();
             newDoctor.Name = createDoctorDto.Name;
             newDoctor.Surname = createDoctorDto.Surname;
@@ -38,7 +49,9 @@ public class DoctorController : Controller
             newDoctor.Email = createDoctorDto.Email;
             newDoctor.Username = createDoctorDto.Username;
             _context.Doctors.Add(newDoctor);
+
             
+
             foreach (int hosbitalID in createDoctorDto.HosbitalDoctorIds)
             {
                 _context.HosbitalDoctors.Add( new HosbitalDoctor
