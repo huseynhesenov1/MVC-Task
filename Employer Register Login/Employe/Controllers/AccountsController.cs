@@ -11,13 +11,14 @@ public class AccountsController : Controller
     private readonly AppDbContext _context;
     private readonly UserManager<AppUser> _userManager;
     private readonly SignInManager<AppUser> _signInManager;
+    private readonly RoleManager<IdentityRole> _roleManager;
 
-
-    public AccountsController(AppDbContext context, UserManager<AppUser> userManager, SignInManager<AppUser> signInManager)
+    public AccountsController(AppDbContext context, UserManager<AppUser> userManager, SignInManager<AppUser> signInManager, RoleManager<IdentityRole> roleManager)
     {
         _context = context;
         _userManager = userManager;
         _signInManager = signInManager;
+        _roleManager = roleManager;
 
     }
 
@@ -47,6 +48,8 @@ public class AccountsController : Controller
             }
             return View(createUserDto);
         }
+        await _userManager.AddToRoleAsync(user, "User");
+
 
 
         await _signInManager.SignInAsync(user, isPersistent: true);
@@ -91,4 +94,33 @@ public class AccountsController : Controller
         await _signInManager.SignOutAsync();
         return RedirectToAction(nameof(Index), "Home");
     }
+    //public async Task CreateRoles()
+    //{
+    //    await _roleManager.CreateAsync(new IdentityRole { Name = "Admin" });
+    //    await _roleManager.CreateAsync(new IdentityRole { Name = "Manager" });
+    //    await _roleManager.CreateAsync(new IdentityRole { Name = "User" });
+    //}
+    //public async Task<string> CreateAdmin()
+    //{
+    //    AppUser appUser = new AppUser();
+    //    appUser.UserName = "SuperAdmin";
+    //    appUser.Email = "instance@admin.com";
+    //    appUser.FirstName = "Huseyn";
+    //    appUser.LastName = "Hesenov";
+    //    await _userManager.CreateAsync(appUser, "Admin123!");
+    //    await _userManager.AddToRoleAsync(appUser,"Admin");
+    //    return "salam";
+    //}
+
+    //public async Task<string> CreateManager()
+    //{
+    //    AppUser appUser = new AppUser();
+    //    appUser.UserName = "Manager";
+    //    appUser.Email = "instance@manager.com";
+    //    appUser.FirstName = "Nuran";
+    //    appUser.LastName = "Piriyev";
+    //    await _userManager.CreateAsync(appUser, "Manager123!");
+    //    await _userManager.AddToRoleAsync(appUser, "Manager");
+    //    return "salam";
+    //}
 }

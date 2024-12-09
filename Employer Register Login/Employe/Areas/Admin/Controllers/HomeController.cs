@@ -1,6 +1,7 @@
 ﻿using Employe.DAL;
 using Employe.Models;
 using Employe.ViewModels;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
@@ -8,6 +9,7 @@ using Microsoft.EntityFrameworkCore;
 namespace Employe.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles ="Admin,Manager")]
     public class HomeController : Controller
     {
         private readonly AppDbContext _context;

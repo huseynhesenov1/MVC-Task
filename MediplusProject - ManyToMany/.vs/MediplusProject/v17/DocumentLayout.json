@@ -86,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
@@ -99,8 +99,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T21:44:57.473Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -113,12 +112,15 @@
               "ViewState": "AgIAAAwAAAAAAAAAAAAuwBQAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-03T22:32:51.262Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
@@ -130,8 +132,7 @@
               "RelativeToolTip": "MediplusProject\\Models\\Doctor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T08:14:56.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-04T08:14:56.357Z"
             },
             {
               "$type": "Document",
@@ -143,8 +144,7 @@
               "RelativeToolTip": "MediplusProject\\Areas\\Admin\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T08:11:42.341Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-04T08:11:42.341Z"
             },
             {
               "$type": "Document",
@@ -154,7 +154,7 @@
               "RelativeDocumentMoniker": "MediplusProject\\Areas\\Admin\\Views\\Doctor\\Details.cshtml",
               "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\MediplusProject - ManyToMany\\MediplusProject\\Areas\\Admin\\Views\\Doctor\\Details.cshtml",
               "RelativeToolTip": "MediplusProject\\Areas\\Admin\\Views\\Doctor\\Details.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAwwC0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAwwDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-04T08:11:00.807Z",
               "EditorCaption": ""
@@ -169,8 +169,7 @@
               "RelativeToolTip": "MediplusProject\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
               "ViewState": "AgIAABEAAAAAAAAAAAAUwCMAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-03T22:13:56.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-03T22:13:56.023Z"
             },
             {
               "$type": "Document",
@@ -206,8 +205,7 @@
               "RelativeToolTip": "MediplusProject\\Areas\\Admin\\Controllers\\DoctorController.cs",
               "ViewState": "AgIAAEAAAAAAAAAAAAAIwEYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T21:52:47.7Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-03T21:52:47.7Z"
             },
             {
               "$type": "Document",

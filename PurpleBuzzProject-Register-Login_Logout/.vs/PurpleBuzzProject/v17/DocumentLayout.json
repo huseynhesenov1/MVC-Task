@@ -139,8 +139,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T05:37:33.981Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -169,8 +168,7 @@
               "RelativeToolTip": "PurpleBuzzProject\\DAL\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T21:43:56.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T21:43:56.731Z"
             },
             {
               "$type": "Document",
@@ -182,8 +180,7 @@
               "RelativeToolTip": "PurpleBuzzProject\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T22:33:39.584Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T22:33:39.584Z"
             },
             {
               "$type": "Document",
@@ -195,8 +192,7 @@
               "RelativeToolTip": "PurpleBuzzProject\\Views\\Accounts\\Login.cshtml",
               "ViewState": "AgIAADgAAAAAAAAAAAAAwEsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-27T22:00:48.214Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T22:00:48.214Z"
             },
             {
               "$type": "Document",
@@ -208,8 +204,7 @@
               "RelativeToolTip": "PurpleBuzzProject\\DTOs\\UserDTOs\\LoginUserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T22:04:11.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T22:04:11.542Z"
             },
             {
               "$type": "Document",
@@ -221,8 +216,7 @@
               "RelativeToolTip": "PurpleBuzzProject\\Controllers\\AccountsController.cs",
               "ViewState": "AgIAAEsAAAAAAAAAAAAowGAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T22:54:43.065Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T22:54:43.065Z"
             },
             {
               "$type": "Document",
@@ -232,10 +226,14 @@
               "RelativeDocumentMoniker": "PurpleBuzzProject\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProject-Register-Login_Logout\\PurpleBuzzProject\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "PurpleBuzzProject\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAADwAAABaAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-27T21:43:22.678Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
@@ -247,8 +245,7 @@
               "RelativeToolTip": "PurpleBuzzProject\\Models\\AppUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T21:16:17.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T21:16:17.308Z"
             },
             {
               "$type": "Document",
@@ -260,8 +257,7 @@
               "RelativeToolTip": "PurpleBuzzProject\\Views\\Accounts\\Register.cshtml",
               "ViewState": "AgIAAD8AAAAAAAAAAAAAwE8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T22:56:46.388Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T22:56:46.388Z"
             },
             {
               "$type": "Document",
@@ -273,21 +269,19 @@
               "RelativeToolTip": "PurpleBuzzProject\\DTOs\\UserDTOs\\CreateUserDto.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T23:10:29.489Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T23:10:29.489Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "PurpleBuzzProject",
+              "Title": "PurpleBuzzProject.csproj",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProject-Register-Login_Logout\\PurpleBuzzProject\\PurpleBuzzProject.csproj",
               "RelativeDocumentMoniker": "PurpleBuzzProject\\PurpleBuzzProject.csproj",
               "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\PurpleBuzzProject-Register-Login_Logout\\PurpleBuzzProject\\PurpleBuzzProject.csproj",
               "RelativeToolTip": "PurpleBuzzProject\\PurpleBuzzProject.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-02T21:15:13.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T21:15:13.116Z"
             },
             {
               "$type": "Document",
@@ -299,8 +293,7 @@
               "RelativeToolTip": "PurpleBuzzProject\\Controllers\\AboutController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T21:13:46.624Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T21:13:46.624Z"
             },
             {
               "$type": "Document",
@@ -312,8 +305,7 @@
               "RelativeToolTip": "PurpleBuzzProject\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T21:13:22.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T21:13:22.091Z"
             },
             {
               "$type": "Document",
@@ -325,8 +317,7 @@
               "RelativeToolTip": "PurpleBuzzProject\\Models\\OurTeam.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T20:43:39.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T20:43:39.569Z"
             },
             {
               "$type": "Document",
@@ -338,8 +329,7 @@
               "RelativeToolTip": "PurpleBuzzProject\\Areas\\Admin\\Controllers\\ServiceAdminController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T06:29:11.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T06:29:11.463Z"
             },
             {
               "$type": "Document",
@@ -351,8 +341,7 @@
               "RelativeToolTip": "PurpleBuzzProject\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAEoBAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T06:37:07.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T06:37:07.041Z"
             },
             {
               "$type": "Document",
@@ -364,8 +353,7 @@
               "RelativeToolTip": "PurpleBuzzProject\\Models\\OurService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T20:43:37.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T20:43:37.53Z"
             },
             {
               "$type": "Document",
@@ -377,8 +365,7 @@
               "RelativeToolTip": "PurpleBuzzProject\\Models\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T20:43:35.51Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T20:43:35.51Z"
             },
             {
               "$type": "Document",
@@ -390,8 +377,7 @@
               "RelativeToolTip": "PurpleBuzzProject\\Models\\BaseAuditableEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T20:42:24.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T20:42:24.331Z"
             },
             {
               "$type": "Document",
