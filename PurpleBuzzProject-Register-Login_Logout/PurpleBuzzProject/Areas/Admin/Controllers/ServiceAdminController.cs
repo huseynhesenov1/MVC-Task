@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using PurpleBuzzProject.DAL;
 using PurpleBuzzProject.Models;
@@ -6,6 +7,9 @@ using PurpleBuzzProject.Models;
 namespace PurpleBuzzProject.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = "Admin, Manager")]
+
+
     public class ServiceAdminController : Controller
     {
         readonly AppDbContext _context;

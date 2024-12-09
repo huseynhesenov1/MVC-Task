@@ -26,6 +26,7 @@ namespace PurpleBuzzProject
 
             app.UseStaticFiles();
             app.UseAuthentication();
+            app.UseAuthorization();
 
             app.MapControllerRoute(
                   name: "areas",

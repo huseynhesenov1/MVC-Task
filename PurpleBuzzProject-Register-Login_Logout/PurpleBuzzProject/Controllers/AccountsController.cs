@@ -11,14 +11,17 @@ namespace PurpleBuzzProject.Controllers
         private readonly AppDbContext _appDbContext;
         private readonly UserManager<AppUser> _userManager;
         private readonly SignInManager<AppUser> _signInManager;
+        private readonly RoleManager<IdentityRole> _roleManager;
 
-       
 
-        public AccountsController(AppDbContext appDbContext, UserManager<AppUser> userManager, SignInManager<AppUser> signInManager)
+
+        public AccountsController(AppDbContext appDbContext, UserManager<AppUser> userManager, SignInManager<AppUser> signInManager,
+            RoleManager<IdentityRole> roleManager)
         {
-             _appDbContext = appDbContext;
-             _userManager = userManager;
+            _appDbContext = appDbContext;
+            _userManager = userManager;
             _signInManager = signInManager;
+            _roleManager = roleManager;
 
 
         }
@@ -49,10 +52,11 @@ namespace PurpleBuzzProject.Controllers
                 }
                 return View(createUserDto);
             }
+            await _userManager.AddToRoleAsync(user, "User");
 
-           await _signInManager.SignInAsync(user, isPersistent: true);
+            await _signInManager.SignInAsync(user, isPersistent: true);
 
-            return RedirectToAction("Login","Accounts");
+            return RedirectToAction("Login", "Accounts");
         }
 
         public IActionResult Login()
@@ -65,7 +69,7 @@ namespace PurpleBuzzProject.Controllers
             if (!ModelState.IsValid)
             {
                 return View();
-                
+
             }
             AppUser? user = await _userManager.FindByNameAsync(loginUserDto.EmailOrUsername);
             if (user == null)
@@ -73,12 +77,12 @@ namespace PurpleBuzzProject.Controllers
                 user = await _userManager.FindByEmailAsync(loginUserDto.EmailOrUsername);
                 if (user == null)
                 {
-                     ModelState.AddModelError(string.Empty, "Username or Password is incorrect");
+                    ModelState.AddModelError(string.Empty, "Username or Password is incorrect");
                     return View();
                 }
             }
 
-            var result = await _signInManager.PasswordSignInAsync(user, loginUserDto.Password, loginUserDto.Ispersistant,true);
+            var result = await _signInManager.PasswordSignInAsync(user, loginUserDto.Password, loginUserDto.Ispersistant, true);
 
             if (!result.Succeeded)
             {
@@ -86,14 +90,45 @@ namespace PurpleBuzzProject.Controllers
                 return View();
             }
 
-            return RedirectToAction(nameof(Index),"Home");
+            return RedirectToAction(nameof(Index), "Home");
         }
 
 
-        public async  Task<IActionResult> Logout()
+        public async Task<IActionResult> Logout()
         {
-           await _signInManager.SignOutAsync();
-            return RedirectToAction(nameof(Index),"Home");
+            await _signInManager.SignOutAsync();
+            return RedirectToAction(nameof(Index), "Home");
         }
+        //public async Task CreateRoles()
+        //{
+        //    await _roleManager.CreateAsync(new IdentityRole { Name = "Admin"});
+        //    await _roleManager.CreateAsync(new IdentityRole { Name = "Manager" });
+        //    await _roleManager.CreateAsync(new IdentityRole { Name = "User" });
+        //}
+
+        //public async Task CreateAdmin()
+        //{
+        //    AppUser appUser = new AppUser();
+        //    appUser.UserName = "Admin";
+        //    appUser.FirstName = "HuseynH";
+        //    appUser.LastName = "HesenovH";
+        //    appUser.Email = "admin@purplebuzz.com";
+        //   await _userManager.CreateAsync(appUser, "Admin123!");
+        //    await _userManager.AddToRoleAsync(appUser, "Admin");
+
+        //}
+
+
+        //public async Task CreateManager()
+        //{
+        //    AppUser appUser = new AppUser();
+        //    appUser.UserName = "Manager";
+        //    appUser.FirstName = "HesenH";
+        //    appUser.LastName = "HesenovH";
+        //    appUser.Email = "manager@purplebuzz.com";
+        //    await _userManager.CreateAsync(appUser, "Manager123!");
+        //   await _userManager.AddToRoleAsync(appUser, "Manager");
+
+        //}
     }
 }
