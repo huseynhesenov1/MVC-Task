@@ -1,6 +1,8 @@
-﻿using Employe.DAL;
+﻿using Employe.Abstraction;
+using Employe.DAL;
 using Employe.DTOs.UserDTOs;
 using Employe.Models;
+using Employe.Utilities;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 
@@ -12,14 +14,15 @@ public class AccountsController : Controller
     private readonly UserManager<AppUser> _userManager;
     private readonly SignInManager<AppUser> _signInManager;
     private readonly RoleManager<IdentityRole> _roleManager;
+    private readonly IEmailService _emailService;
 
-    public AccountsController(AppDbContext context, UserManager<AppUser> userManager, SignInManager<AppUser> signInManager, RoleManager<IdentityRole> roleManager)
+    public AccountsController(AppDbContext context, UserManager<AppUser> userManager, SignInManager<AppUser> signInManager, RoleManager<IdentityRole> roleManager, IEmailService emailService)
     {
         _context = context;
         _userManager = userManager;
         _signInManager = signInManager;
         _roleManager = roleManager;
-
+        _emailService = emailService;
     }
 
     public IActionResult Register()
@@ -48,6 +51,11 @@ public class AccountsController : Controller
             }
             return View(createUserDto);
         }
+        //EmailService emailService = new EmailService(_configuration);
+        _emailService.SendEmail(user.Email);
+        string userToken = await _userManager.GenerateEmailConfirmationTokenAsync(user);
+        string? url =Url.Action("ConfirmEmail","Accounts",new {UserId = user.Id, token = userToken},Request.Scheme);
+        _emailService.SendEmailConfirm(user.Email, url);
         await _userManager.AddToRoleAsync(user, "User");
 
 
@@ -55,6 +63,21 @@ public class AccountsController : Controller
         await _signInManager.SignInAsync(user, isPersistent: true);
 
         return RedirectToAction(nameof(Login), "Accounts");
+    }
+    public async Task<IActionResult> ConfirmEmail(string UserId, string token)
+    {
+        AppUser? user = await _userManager.FindByIdAsync(UserId);
+        if (user==null)
+        {
+            return BadRequest("propblem var");
+        }
+        var result = await _userManager.ConfirmEmailAsync(user,token);
+        if (result.Succeeded)
+        {
+            return Ok("Confirmed Email");
+        }
+        return BadRequest("propblem var");
+
     }
     public IActionResult Login()
     {
@@ -78,6 +101,10 @@ public class AccountsController : Controller
                 return View();
             }
         }
+        if (!user.EmailConfirmed)
+        {
+            return BadRequest("please confirm your email");
+        }
 
         var result = await _signInManager.PasswordSignInAsync(user, loginUserDto.Password, loginUserDto.Ispersistant, true);
 
@@ -86,6 +113,9 @@ public class AccountsController : Controller
             ModelState.AddModelError(string.Empty, "Username or Password is incorrect");
             return View();
         }
+
+        
+
 
         return RedirectToAction(nameof(Index), "Home");
     }

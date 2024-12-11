@@ -1,5 +1,7 @@
+using Employe.Abstraction;
 using Employe.DAL;
 using Employe.Models;
+using Employe.Utilities;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
@@ -17,6 +19,9 @@ namespace Employe
                     opt.User.RequireUniqueEmail = true;
 
                 }).AddDefaultTokenProviders().AddEntityFrameworkStores<AppDbContext>();
+
+
+            builder.Services.AddScoped<IEmailService, EmailService>();
 
             builder.Services.AddDbContext<AppDbContext>(
                options =>
