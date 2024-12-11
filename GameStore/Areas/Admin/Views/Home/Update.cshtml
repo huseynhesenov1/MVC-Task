@@ -1,0 +1,73 @@
+﻿﻿@using GameStore.Models;
+@using GameStore.ViewModels;
+
+@model UpdateGameVM;
+
+
+
+
+
+<div class="row ml-3">
+    <h3 class="mb-3 mt-3">Update Game</h3>
+
+    <div class="col-md-12">
+        <form asp-action="Update" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+
+
+            <div class="form-group">
+                <label asp-for="Title" class="control-label"></label>
+                <input asp-for="Title" class="form-control" />
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <input asp-for="Description" class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="GamerId" class="control-label"></label>
+                <input asp-for="GamerId" class="form-control" />
+                <span asp-validation-for="GamerId" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+
+                <label asp-for="Price" class="control-label"></label>
+                <input asp-for="Price" class="form-control" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+
+
+
+
+
+           @*   <div class="form-group">
+                 <label asp-for="Image" class="control-label"></label>
+                 <input asp-for="Image" class="form-control" />
+                 <span asp-validation-for="Image" class="text-danger"></span>
+             </div> *@
+
+
+
+
+
+
+
+
+
+
+
+            <div class="form-group">
+                <input type="submit" value="Update" class="btn btn-primary" />
+            </div>
+        </form>
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    </div>
+    <div>
+        <a asp-action="Index">Back to List</a>
+    </div>
+</div>
