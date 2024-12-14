@@ -8,5 +8,6 @@ namespace GameStore.DAL
     {
         public AppDbContext(DbContextOptions options) : base(options) { }
         public DbSet<Gamer> Gamers { get; set; }
+        public DbSet<Review> Reviews { get; set; }
     }
 }

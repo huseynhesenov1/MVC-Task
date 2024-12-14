@@ -1,5 +1,9 @@
 ﻿@using GameStore.Models
-@model Gamer
+@model Review;
+
+@{
+	ViewData["Title"] = "Create";
+}
 
 <div class="page-heading header-text">
 	<div class="container">
@@ -16,22 +20,24 @@
 	<div class="container">
 		<div class="row">
 
-
+			
+				
+			
 			<div class="col-lg-6">
 				<div class="left-image">
-					<img src="~/ImageUpload/@Model.ImgPath" alt="">
+					<img src="~/ImageUpload/@ViewBag.Gamer.ImgPath" alt="">
 				</div>
 			</div>
 			<div class="col-lg-6 align-self-center">
-				<h4>@Model.Title</h4>
-				<span class="price"><em>$@Model.Price</em> $22</span>
-				<p>@Model.Description</p>
+				<h4>@ViewBag.Gamer.Title</h4>
+				<span class="price"><em>$@ViewBag.Gamer.Price</em> $22</span>
+				<p>@ViewBag.Gamer.Description</p>
 				<form id="qty" action="#">
 					<input type="qty" class="form-control" id="1" aria-describedby="quantity" placeholder="1">
 					<button type="submit"><i class="fa fa-shopping-bag"></i> ADD TO CART</button>
 				</form>
 				<ul>
-					<li><span>@Model.GamerId</span> COD MMII</li>
+					<li><span>@ViewBag.Gamer.Id</span> COD MMII</li>
 					<li><span>Genre:</span> <a href="#">Action</a>, <a href="#">Team</a>, <a href="#">Single</a></li>
 					<li><span>Multi-tags:</span> <a href="#">War</a>, <a href="#">Battle</a>, <a href="#">Royal</a></li>
 				</ul>
@@ -40,7 +46,7 @@
 				<div class="sep"></div>
 			</div>
 
-
+			
 		</div>
 	</div>
 </div>
@@ -68,10 +74,27 @@
 								<p>Coloring book air plant shabby chic, crucifix normcore raclette cred swag artisan activated charcoal. PBR&B fanny pack pok pok gentrify truffaut kitsch helvetica jean shorts edison bulb poutine next level humblebrag la croix adaptogen. Hashtag poke literally locavore, beard marfa kogi bruh artisan succulents seitan tonx waistcoat chambray taxidermy. Same cred meggings 3 wolf moon lomo irony cray hell of bitters asymmetrical gluten-free art party raw denim chillwave tousled try-hard succulents street art.</p>
 							</div>
 							<div class="tab-pane fade" id="reviews" role="tabpanel" aria-labelledby="reviews-tab">
-								<form method="post">
-								<input type="text" />
-								<button class="btn btn-success">Send</button>
-								</form>
+								
+							
+									
+								<form asp-action="Create" method="post">
+									<div class="form-group">
+										<label asp-for="Comment" class="control-label"></label>
+										<input asp-for="Comment" class="form-control" />
+										<span asp-validation-for="Comment" class="text-danger"></span>
+									</div>
+									<div class="form-group">
+										<label asp-for="GamerId" class="control-label"></label>
+										<input asp-for="GamerId" class="form-control" />
+										<span asp-validation-for="GamerId" class="text-danger"></span>
+									</div>
+									<div class="form-group">
+										<input type="submit" value="Create" class="btn btn-primary" />
+									</div>
+								</form> 
+								<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+								
+
 							</div>
 						</div>
 					</div>
