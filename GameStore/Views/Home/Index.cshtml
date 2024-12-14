@@ -102,7 +102,7 @@
                         <div class="down-content">
                             <span class="category">@item.Title</span>
                             <h4>@item.Description</h4>
-                            <a href="Pro.html" ><i class="fa fa-shopping-bag"></i></a>
+                            <a asp-controller="Cart" asp-action="AddToBasket" asp-route-productId="@item.Id" ><i class="fa fa-shopping-bag"></i></a>
                         </div>
                     </div>
                 </div>
