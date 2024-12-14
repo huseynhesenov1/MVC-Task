@@ -1,4 +1,6 @@
-﻿<div class="main-banner">
+﻿@using GameStore.Models
+@model List<Gamer>;
+<div class="main-banner">
     <div class="container">
         <div class="row">
             <div class="col-lg-6 align-self-center">
@@ -86,58 +88,27 @@
                     <a href="shop.html">View All</a>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6">
-                <div class="item">
-                    <div class="thumb">
-                        <a href="product-details.html"><img src="assets/images/trending-01.jpg" alt=""></a>
-                        <span class="price"><em>$28</em>$20</span>
-                    </div>
-                    <div class="down-content">
-                        <span class="category">Action</span>
-                        <h4>Assasin Creed</h4>
-                        <a href="product-details.html"><i class="fa fa-shopping-bag"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6">
-                <div class="item">
-                    <div class="thumb">
-                        <a href="product-details.html"><img src="assets/images/trending-02.jpg" alt=""></a>
-                        <span class="price">$44</span>
-                    </div>
-                    <div class="down-content">
-                        <span class="category">Action</span>
-                        <h4>Assasin Creed</h4>
-                        <a href="product-details.html"><i class="fa fa-shopping-bag"></i></a>
+              @* trending-01.jpg *@
+            @foreach (var item in Model)
+            {
+
+
+                <div class="col-lg-3 col-md-6">
+                    <div class="item">
+                        <div class="thumb">
+                            <a asp-controller="ProductDetail" asp-action="Detail" asp-route-id="@item.Id"><img src="~/ImageUpload/@item.ImgPath" alt=""></a>
+                            <span class="price">$@item.Price</span>
+                        </div>
+                        <div class="down-content">
+                            <span class="category">@item.Title</span>
+                            <h4>@item.Description</h4>
+                            <a href="Pro.html" ><i class="fa fa-shopping-bag"></i></a>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div class="col-lg-3 col-md-6">
-                <div class="item">
-                    <div class="thumb">
-                        <a href="product-details.html"><img src="assets/images/trending-03.jpg" alt=""></a>
-                        <span class="price"><em>$64</em>$44</span>
-                    </div>
-                    <div class="down-content">
-                        <span class="category">Action</span>
-                        <h4>Assasin Creed</h4>
-                        <a href="product-details.html"><i class="fa fa-shopping-bag"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6">
-                <div class="item">
-                    <div class="thumb">
-                        <a href="product-details.html"><img src="assets/images/trending-04.jpg" alt=""></a>
-                        <span class="price">$32</span>
-                    </div>
-                    <div class="down-content">
-                        <span class="category">Action</span>
-                        <h4>Assasin Creed</h4>
-                        <a href="product-details.html"><i class="fa fa-shopping-bag"></i></a>
-                    </div>
-                </div>
-            </div>
+
+            }
+
         </div>
     </div>
 </div>

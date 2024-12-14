@@ -144,16 +144,16 @@ namespace GameStore.Areas.Admin.Controllers
 
             return RedirectToAction(nameof(Index), "Home");
         }
-        //public IActionResult Restore(int Id)
-        //{
-        //    Gamer? gamer = _context.Gamers.Find(Id);
-        //    if (gamer == null)
-        //    {
-        //        return NotFound("null");
-        //    }
-        //    gamer.IsDeleted = false;
-        //    _context.SaveChanges();
-        //    return RedirectToAction(nameof(Index), "Details");
-        //}
+        public IActionResult Restore(int Id)
+        {
+            Gamer? gamer = _context.Gamers.Find(Id);
+            if (gamer == null)
+            {
+                return NotFound("null");
+            }
+            gamer.IsDeleted = false;
+            _context.SaveChanges();
+            return RedirectToAction("Index", "Details");
+        }
     }
 }
