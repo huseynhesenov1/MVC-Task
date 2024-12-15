@@ -33,10 +33,12 @@ public class ProductDetailController : Controller
     [HttpPost]
     public IActionResult Create(CreateReviewVM createReviewVM)
     {
+        
         if (!ModelState.IsValid)
         {
             return NotFound("nulldu");
         }
+        //Gamer? game = _context.Gamers.FirstOrDefault(g => g.Id == createReviewVM.GamerId);
         Review review = new Review()
         {
             Comment = createReviewVM.Comment,

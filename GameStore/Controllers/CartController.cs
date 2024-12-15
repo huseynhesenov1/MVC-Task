@@ -32,22 +32,49 @@ namespace GameStore.Controllers
 				Expires = DateTime.Now.AddDays(7),
 				HttpOnly = true
 			};
-			BasketItemDto basketItemDto = new BasketItemDto()
+			BasketDto basket = GetBasket();
+
+            if (basket == null)
+            {
+				basket = new BasketDto();
+            }
+			BasketItemDto? existingBasketItem  = basket.Items.FirstOrDefault(g => g.GamerId == gamer.Id);
+            if (existingBasketItem == null)
+            {
+
+            BasketItemDto basketItemDto = new BasketItemDto()
 			{
+				
+				ImgPath = gamer.ImgPath,
+				GamerId = gamer.Id,
 				Title = gamer.Title,
 				Price = gamer.Price,
 				Quantity = 1
 			};
+            basket.Items.Add(basketItemDto);
+			}
+			else
+			{
+				existingBasketItem.Quantity += 1;
 
-			var baksetItem =  JsonConvert.SerializeObject(basketItemDto);
-			Response.Cookies.Append("BasketItem" , baksetItem , cookieOption);
+			}
+
+			var cookieBasket =  JsonConvert.SerializeObject(basket);
+			Response.Cookies.Append("Basket" , cookieBasket, cookieOption);
 			
-			return Ok(baksetItem);
+			
+			return Ok();
 		}
-		public IActionResult GetBasket()
+		public BasketDto GetBasket()
 		{
-			var basketItemDto = Request.Cookies["BasketItem"];
-			return Ok(basketItemDto);
+			var basket = Request.Cookies["Basket"];
+			if (basket != null)
+			{
+				BasketDto? existingBasket = JsonConvert.DeserializeObject<BasketDto>(basket);
+				return existingBasket;
+
+            }
+			return null;
 		}
 	}
 }

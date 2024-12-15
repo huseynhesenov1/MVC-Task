@@ -9,6 +9,7 @@ namespace GameStore.DTOs.BasketDtos
 		public decimal Price { get; set; }
 		public string ImgPath { get; set; }
 		public int Quantity { get; set; }
+		public int GamerId { get; set; }
 
 
 	}
