@@ -18,7 +18,8 @@ namespace GameStore.Controllers
 
 		public IActionResult Index()
 		{
-			return View();
+			BasketDto basket = GetBasket();
+			return View(basket);
 		}
 		public IActionResult AddToBasket(int productId)
 		{
@@ -44,7 +45,7 @@ namespace GameStore.Controllers
 
             BasketItemDto basketItemDto = new BasketItemDto()
 			{
-				
+				Description = gamer.Description,
 				ImgPath = gamer.ImgPath,
 				GamerId = gamer.Id,
 				Title = gamer.Title,

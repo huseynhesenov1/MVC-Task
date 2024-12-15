@@ -10,6 +10,7 @@ namespace GameStore.DTOs.BasketDtos
 		public string ImgPath { get; set; }
 		public int Quantity { get; set; }
 		public int GamerId { get; set; }
+		public string Description { get; set; }
 
 
 	}
