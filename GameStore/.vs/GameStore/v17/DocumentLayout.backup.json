@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\MVC\\GameStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{81C1B7C4-9EC8-433C-A3DE-B0326A96A98D}|GameStore.csproj|c:\\users\\acer\\desktop\\mvc\\gamestore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{81C1B7C4-9EC8-433C-A3DE-B0326A96A98D}|GameStore.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{81C1B7C4-9EC8-433C-A3DE-B0326A96A98D}|GameStore.csproj|c:\\users\\acer\\desktop\\mvc\\gamestore\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C1B7C4-9EC8-433C-A3DE-B0326A96A98D}|GameStore.csproj|solutionrelative:areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{81C1B7C4-9EC8-433C-A3DE-B0326A96A98D}|GameStore.csproj|c:\\users\\acer\\desktop\\mvc\\gamestore\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81C1B7C4-9EC8-433C-A3DE-B0326A96A98D}|GameStore.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C1B7C4-9EC8-433C-A3DE-B0326A96A98D}|GameStore.csproj|c:\\users\\acer\\desktop\\mvc\\gamestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C1B7C4-9EC8-433C-A3DE-B0326A96A98D}|GameStore.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C1B7C4-9EC8-433C-A3DE-B0326A96A98D}|GameStore.csproj|c:\\users\\acer\\desktop\\mvc\\gamestore\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C1B7C4-9EC8-433C-A3DE-B0326A96A98D}|GameStore.csproj|solutionrelative:dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C1B7C4-9EC8-433C-A3DE-B0326A96A98D}|GameStore.csproj|c:\\users\\acer\\desktop\\mvc\\gamestore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81C1B7C4-9EC8-433C-A3DE-B0326A96A98D}|GameStore.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{81C1B7C4-9EC8-433C-A3DE-B0326A96A98D}|GameStore.csproj|c:\\users\\acer\\desktop\\mvc\\gamestore\\dtos\\user\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,14 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{81C1B7C4-9EC8-433C-A3DE-B0326A96A98D}|GameStore.csproj|c:\\users\\acer\\desktop\\mvc\\gamestore\\gamestore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{81C1B7C4-9EC8-433C-A3DE-B0326A96A98D}|GameStore.csproj|solutionrelative:gamestore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81C1B7C4-9EC8-433C-A3DE-B0326A96A98D}|GameStore.csproj|c:\\users\\acer\\desktop\\mvc\\gamestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81C1B7C4-9EC8-433C-A3DE-B0326A96A98D}|GameStore.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81C1B7C4-9EC8-433C-A3DE-B0326A96A98D}|GameStore.csproj|c:\\users\\acer\\desktop\\mvc\\gamestore\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81C1B7C4-9EC8-433C-A3DE-B0326A96A98D}|GameStore.csproj|solutionrelative:dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{81C1B7C4-9EC8-433C-A3DE-B0326A96A98D}|GameStore.csproj|c:\\users\\acer\\desktop\\mvc\\gamestore\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -91,10 +95,6 @@
       "RelativeMoniker": "D:0:0:{81C1B7C4-9EC8-433C-A3DE-B0326A96A98D}|GameStore.csproj|solutionrelative:viewmodels\\updategamevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81C1B7C4-9EC8-433C-A3DE-B0326A96A98D}|GameStore.csproj|c:\\users\\acer\\desktop\\mvc\\gamestore\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81C1B7C4-9EC8-433C-A3DE-B0326A96A98D}|GameStore.csproj|solutionrelative:areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{81C1B7C4-9EC8-433C-A3DE-B0326A96A98D}|GameStore.csproj|c:\\users\\acer\\desktop\\mvc\\gamestore\\viewmodels\\creategamevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81C1B7C4-9EC8-433C-A3DE-B0326A96A98D}|GameStore.csproj|solutionrelative:viewmodels\\creategamevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -106,7 +106,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
@@ -119,8 +119,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T14:04:29.379Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -128,46 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\GameStore\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\GameStore\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACwAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T21:12:26.988Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginDto.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\GameStore\\DTOs\\User\\LoginDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\User\\LoginDto.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\GameStore\\DTOs\\User\\LoginDto.cs",
-              "RelativeToolTip": "DTOs\\User\\LoginDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T21:07:06.255Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "20241216203150_register.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\GameStore\\Migrations\\20241216203150_register.cs",
-              "RelativeDocumentMoniker": "Migrations\\20241216203150_register.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\GameStore\\Migrations\\20241216203150_register.cs",
-              "RelativeToolTip": "Migrations\\20241216203150_register.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T20:31:50.917Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\GameStore\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
@@ -175,12 +135,11 @@
               "RelativeToolTip": "Views\\Account\\Register.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T20:21:17.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T20:21:17.402Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "UserDto.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\GameStore\\DTOs\\User\\UserDto.cs",
               "RelativeDocumentMoniker": "DTOs\\User\\UserDto.cs",
@@ -188,8 +147,7 @@
               "RelativeToolTip": "DTOs\\User\\UserDto.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAwBcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T20:20:12.051Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T20:20:12.051Z"
             },
             {
               "$type": "Document",
@@ -199,23 +157,98 @@
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\GameStore\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAwwC8AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAcwHUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T20:10:29.944Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\GameStore\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\GameStore\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAADMAAAAAAAAAAAAMwEoAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAMwEMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-15T22:20:49.504Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\GameStore\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\GameStore\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T13:52:09.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\GameStore\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\GameStore\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T20:25:34.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\GameStore\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\GameStore\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T20:24:38.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241216203150_register.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\GameStore\\Migrations\\20241216203150_register.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241216203150_register.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\GameStore\\Migrations\\20241216203150_register.cs",
+              "RelativeToolTip": "Migrations\\20241216203150_register.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T20:31:50.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\GameStore\\DTOs\\User\\LoginDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\User\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\GameStore\\DTOs\\User\\LoginDto.cs",
+              "RelativeToolTip": "DTOs\\User\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T21:07:06.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\GameStore\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\GameStore\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T21:12:26.988Z"
             },
             {
               "$type": "Bookmark",
@@ -223,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "GameStore.csproj",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\GameStore\\GameStore.csproj",
               "RelativeDocumentMoniker": "GameStore.csproj",
@@ -231,25 +264,11 @@
               "RelativeToolTip": "GameStore.csproj",
               "ViewState": "AgIAAAcAAAAAAAAAAAAwwBYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-16T20:18:45.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T20:18:45.587Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\GameStore\\DAL\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "DAL\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\GameStore\\DAL\\AppDbContext.cs",
-              "RelativeToolTip": "DAL\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T20:24:38.754Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\GameStore\\Views\\Cart\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Cart\\Index.cshtml",
@@ -257,25 +276,11 @@
               "RelativeToolTip": "Views\\Cart\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-15T22:16:16.24Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-15T22:16:16.24Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\GameStore\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\GameStore\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T20:25:34.633Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\GameStore\\Models\\AppUser.cs",
               "RelativeDocumentMoniker": "Models\\AppUser.cs",
@@ -283,12 +288,11 @@
               "RelativeToolTip": "Models\\AppUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T20:05:18.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T20:05:18.668Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Gamer.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\GameStore\\Models\\Gamer.cs",
               "RelativeDocumentMoniker": "Models\\Gamer.cs",
@@ -296,12 +300,11 @@
               "RelativeToolTip": "Models\\Gamer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T22:43:04.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-15T22:43:04.702Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\GameStore\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -309,12 +312,11 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAFoAAAAAAAAAAAAAAGgAAACQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-15T07:49:51.791Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-15T07:49:51.791Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\GameStore\\Views\\ProductDetail\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\ProductDetail\\Index.cshtml",
@@ -322,12 +324,11 @@
               "RelativeToolTip": "Views\\ProductDetail\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-15T07:49:03.601Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-15T07:49:03.601Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Detail.cshtml",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\GameStore\\Views\\ProductDetail\\Detail.cshtml",
               "RelativeDocumentMoniker": "Views\\ProductDetail\\Detail.cshtml",
@@ -335,12 +336,11 @@
               "RelativeToolTip": "Views\\ProductDetail\\Detail.cshtml",
               "ViewState": "AgIAAD8AAAAAAAAAAIBJwFkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-14T22:23:58.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T22:23:58.171Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "BasketItemDto.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\GameStore\\DTOs\\BasketDtos\\BasketItemDto.cs",
               "RelativeDocumentMoniker": "DTOs\\BasketDtos\\BasketItemDto.cs",
@@ -348,12 +348,11 @@
               "RelativeToolTip": "DTOs\\BasketDtos\\BasketItemDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T22:17:34.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T22:17:34.084Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "CartController.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\GameStore\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "Controllers\\CartController.cs",
@@ -361,25 +360,11 @@
               "RelativeToolTip": "Controllers\\CartController.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAgwC8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T21:51:02.435Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T21:51:02.435Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\GameStore\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\GameStore\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Areas\\Admin\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAQwFIAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T13:52:09.079Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "ProductDetailController.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\GameStore\\Controllers\\ProductDetailController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductDetailController.cs",
@@ -387,12 +372,11 @@
               "RelativeToolTip": "Controllers\\ProductDetailController.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAEwB0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T21:53:22.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T21:53:22.254Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "product-details.html",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\GameStore\\gameStoreTemplate\\product-details.html",
               "RelativeDocumentMoniker": "gameStoreTemplate\\product-details.html",
@@ -400,12 +384,11 @@
               "RelativeToolTip": "gameStoreTemplate\\product-details.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-12-14T22:23:53.908Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T22:23:53.908Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "UpdateGameVM.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\GameStore\\ViewModels\\UpdateGameVM.cs",
               "RelativeDocumentMoniker": "ViewModels\\UpdateGameVM.cs",
@@ -413,12 +396,11 @@
               "RelativeToolTip": "ViewModels\\UpdateGameVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T22:35:47.457Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T22:35:47.457Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\GameStore\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -426,8 +408,7 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T13:54:14.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T13:54:14.328Z"
             }
           ]
         }

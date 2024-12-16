@@ -2,12 +2,14 @@
 using GameStore.Models;
 using GameStore.Utilities;
 using GameStore.ViewModels;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore.Update.Internal;
 
 namespace GameStore.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = "Admin, Manager")]
     public class HomeController : Controller
     {
         private readonly AppDbContext _context;

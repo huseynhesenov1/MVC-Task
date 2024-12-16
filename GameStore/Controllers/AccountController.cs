@@ -12,12 +12,14 @@ namespace GameStore.Controllers
         private readonly AppDbContext _context;
         private readonly SignInManager<AppUser> _signInManager;
         private readonly UserManager<AppUser> _userManager;
-
-        public AccountController(AppDbContext context, UserManager<AppUser> userManager, SignInManager<AppUser> signInManager)
+        private readonly RoleManager<IdentityRole> _roleManager;
+        public AccountController(AppDbContext context, UserManager<AppUser> userManager, SignInManager<AppUser> signInManager, RoleManager<IdentityRole> roleManager)
         {
             _context = context;
             _userManager = userManager;
             _signInManager = signInManager;
+            _roleManager = roleManager;
+
         }
 
 
@@ -82,5 +84,35 @@ namespace GameStore.Controllers
             await _signInManager.SignOutAsync();
             return RedirectToAction("Index", "Home");
         }
+        //public async Task CreateRoles()
+        //{
+        //  await  _roleManager.CreateAsync(new IdentityRole { Name = "Admin" });
+        //  await  _roleManager.CreateAsync(new IdentityRole { Name = "Manager" });
+        //  await  _roleManager.CreateAsync(new IdentityRole { Name = "User" });
+        //}
+
+
+        //public async Task CreateAdmin()
+        //{
+        //    AppUser user = new AppUser();
+        //    user.FirstName = "Admin";
+        //    user.LastName = "Admin";
+        //    user.UserName = "Admin";
+        //    user.Email = "admin@gamestore.com";
+        //    await _userManager.CreateAsync(user,"Admin123!");
+        //    await _userManager.AddToRoleAsync(user, "Admin");
+
+        //}
+
+        //public async Task CreateManager()
+        //{
+        //    AppUser user = new AppUser();
+        //    user.FirstName = "Manager";
+        //    user.LastName = "Manager";
+        //    user.UserName = "Manager";
+        //    user.Email = "manager@gamestore.com";
+        //    await _userManager.CreateAsync(user, "Manager123!");
+        //    await _userManager.AddToRoleAsync(user, "Manager");
+        //}
     }
 }
