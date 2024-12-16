@@ -59,7 +59,17 @@
                             <li><a asp-controller="ProductDetail" asp-action="Index"  >Product Details</a></li>
                             <li><a href="contact.html">Contact Us</a></li>
                             <li><a asp-area="Admin" asp-controller="Home" asp-action="Index" >Admin</a></li>
-                            <li><a href="#">Sign In</a></li>
+                            <li><a asp-controller="Cart" asp-action="Index"><i class="fa fa-shopping-cart"></i></a></li>
+                            @if (User.Identity.IsAuthenticated)
+                            {
+                            <li style="color: #fff">Hello, @User.Identity.Name</li>
+                            <li><a asp-controller="Account" asp-action="Logout">Logout</a></li>
+                                
+                            }
+                            
+                            else{
+                                <li><a asp-controller="Account" asp-action="Register">Sign In</a></li>
+                            }
                         </ul>
                         <a class='menu-trigger'>
                             <span>Menu</span>

@@ -1,4 +1,6 @@
 using GameStore.DAL;
+using GameStore.Models;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 namespace GameStore
@@ -9,11 +11,18 @@ namespace GameStore
         {
             var builder = WebApplication.CreateBuilder(args);
             builder.Services.AddControllersWithViews();
+            builder.Services.AddIdentity<AppUser, IdentityRole>
+               (opt => {
+                   opt.Password.RequiredLength = 4;
+                   opt.User.RequireUniqueEmail = true;
+
+               }).AddDefaultTokenProviders().AddEntityFrameworkStores<AppDbContext>();
             builder.Services.AddDbContext<AppDbContext>(
                options =>
                options.UseSqlServer(builder.Configuration.GetConnectionString("MsSql")));
             var app = builder.Build();
             app.UseStaticFiles();
+            app.UseAuthentication();
 
 
             app.MapControllerRoute(
