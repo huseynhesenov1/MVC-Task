@@ -1,0 +1,791 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97A2EDFC-555E-4803-9F41-81E3DFEC5A3D}|LogisticaProject.BL\\LogisticaProject.BL.csproj|c:\\users\\acer\\source\\repos\\logisticaproject\\logisticaproject.bl\\services\\implementations\\transportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A2EDFC-555E-4803-9F41-81E3DFEC5A3D}|LogisticaProject.BL\\LogisticaProject.BL.csproj|solutionrelative:logisticaproject.bl\\services\\implementations\\transportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F86C6CB-86F6-4424-A6D2-8BD18835DBA6}|LogisticaProject.DAL\\LogisticaProject.DAL.csproj|c:\\users\\acer\\source\\repos\\logisticaproject\\logisticaproject.dal\\repostories\\implementations\\genericrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F86C6CB-86F6-4424-A6D2-8BD18835DBA6}|LogisticaProject.DAL\\LogisticaProject.DAL.csproj|solutionrelative:logisticaproject.dal\\repostories\\implementations\\genericrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|c:\\users\\acer\\source\\repos\\logisticaproject\\logistica.mvc\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|solutionrelative:logistica.mvc\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A2EDFC-555E-4803-9F41-81E3DFEC5A3D}|LogisticaProject.BL\\LogisticaProject.BL.csproj|c:\\users\\acer\\source\\repos\\logisticaproject\\logisticaproject.bl\\services\\abstractions\\itransportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A2EDFC-555E-4803-9F41-81E3DFEC5A3D}|LogisticaProject.BL\\LogisticaProject.BL.csproj|solutionrelative:logisticaproject.bl\\services\\abstractions\\itransportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|c:\\users\\acer\\source\\repos\\logisticaproject\\logistica.mvc\\areas\\admin\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|solutionrelative:logistica.mvc\\areas\\admin\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|c:\\users\\acer\\source\\repos\\logisticaproject\\logistica.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|solutionrelative:logistica.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|c:\\users\\acer\\source\\repos\\logisticaproject\\logistica.mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|solutionrelative:logistica.mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|c:\\users\\acer\\source\\repos\\logisticaproject\\logistica.mvc\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|solutionrelative:logistica.mvc\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A2EDFC-555E-4803-9F41-81E3DFEC5A3D}|LogisticaProject.BL\\LogisticaProject.BL.csproj|c:\\users\\acer\\source\\repos\\logisticaproject\\logisticaproject.bl\\dtos\\appuserlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A2EDFC-555E-4803-9F41-81E3DFEC5A3D}|LogisticaProject.BL\\LogisticaProject.BL.csproj|solutionrelative:logisticaproject.bl\\dtos\\appuserlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A2EDFC-555E-4803-9F41-81E3DFEC5A3D}|LogisticaProject.BL\\LogisticaProject.BL.csproj|c:\\users\\acer\\source\\repos\\logisticaproject\\logisticaproject.bl\\dtos\\appusercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A2EDFC-555E-4803-9F41-81E3DFEC5A3D}|LogisticaProject.BL\\LogisticaProject.BL.csproj|solutionrelative:logisticaproject.bl\\dtos\\appusercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88E945D-341F-4913-B7D3-8DF971AE0012}|LogisticaProject.Core\\LogisticaProject.Core.csproj|c:\\users\\acer\\source\\repos\\logisticaproject\\logisticaproject.core\\entities\\transport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88E945D-341F-4913-B7D3-8DF971AE0012}|LogisticaProject.Core\\LogisticaProject.Core.csproj|solutionrelative:logisticaproject.core\\entities\\transport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88E945D-341F-4913-B7D3-8DF971AE0012}|LogisticaProject.Core\\LogisticaProject.Core.csproj|c:\\users\\acer\\source\\repos\\logisticaproject\\logisticaproject.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88E945D-341F-4913-B7D3-8DF971AE0012}|LogisticaProject.Core\\LogisticaProject.Core.csproj|solutionrelative:logisticaproject.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|c:\\users\\acer\\source\\repos\\logisticaproject\\logistica.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|solutionrelative:logistica.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|c:\\users\\acer\\source\\repos\\logisticaproject\\logistica.mvc\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|solutionrelative:logistica.mvc\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|c:\\users\\acer\\source\\repos\\logisticaproject\\logistica.mvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|solutionrelative:logistica.mvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|c:\\users\\acer\\source\\repos\\logisticaproject\\logistica.mvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|solutionrelative:logistica.mvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|c:\\users\\acer\\source\\repos\\logisticaproject\\logistica.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|solutionrelative:logistica.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|c:\\users\\acer\\source\\repos\\logisticaproject\\logistica.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|solutionrelative:logistica.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|c:\\users\\acer\\source\\repos\\logisticaproject\\logistica.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|solutionrelative:logistica.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A2EDFC-555E-4803-9F41-81E3DFEC5A3D}|LogisticaProject.BL\\LogisticaProject.BL.csproj|c:\\users\\acer\\source\\repos\\logisticaproject\\logisticaproject.bl\\profiles\\appuserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A2EDFC-555E-4803-9F41-81E3DFEC5A3D}|LogisticaProject.BL\\LogisticaProject.BL.csproj|solutionrelative:logisticaproject.bl\\profiles\\appuserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88E945D-341F-4913-B7D3-8DF971AE0012}|LogisticaProject.Core\\LogisticaProject.Core.csproj|c:\\users\\acer\\source\\repos\\logisticaproject\\logisticaproject.core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88E945D-341F-4913-B7D3-8DF971AE0012}|LogisticaProject.Core\\LogisticaProject.Core.csproj|solutionrelative:logisticaproject.core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|c:\\users\\acer\\source\\repos\\logisticaproject\\logistica.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|solutionrelative:logistica.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|c:\\users\\acer\\source\\repos\\logisticaproject\\logistica.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|solutionrelative:logistica.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|c:\\users\\acer\\source\\repos\\logisticaproject\\logistica.mvc\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|solutionrelative:logistica.mvc\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|c:\\users\\acer\\source\\repos\\logisticaproject\\logistica.mvc\\wwwroot\\css\\register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|solutionrelative:logistica.mvc\\wwwroot\\css\\register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|c:\\users\\acer\\source\\repos\\logisticaproject\\logistica.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|solutionrelative:logistica.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|c:\\users\\acer\\source\\repos\\logisticaproject\\logistica.mvc\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|solutionrelative:logistica.mvc\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A2EDFC-555E-4803-9F41-81E3DFEC5A3D}|LogisticaProject.BL\\LogisticaProject.BL.csproj|c:\\users\\acer\\source\\repos\\logisticaproject\\logisticaproject.bl\\profiles\\transportprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A2EDFC-555E-4803-9F41-81E3DFEC5A3D}|LogisticaProject.BL\\LogisticaProject.BL.csproj|solutionrelative:logisticaproject.bl\\profiles\\transportprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|c:\\users\\acer\\source\\repos\\logisticaproject\\logistica.mvc\\areas\\admin\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|solutionrelative:logistica.mvc\\areas\\admin\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88E945D-341F-4913-B7D3-8DF971AE0012}|LogisticaProject.Core\\LogisticaProject.Core.csproj|c:\\users\\acer\\source\\repos\\logisticaproject\\logisticaproject.core\\logisticaproject.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C88E945D-341F-4913-B7D3-8DF971AE0012}|LogisticaProject.Core\\LogisticaProject.Core.csproj|solutionrelative:logisticaproject.core\\logisticaproject.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F86C6CB-86F6-4424-A6D2-8BD18835DBA6}|LogisticaProject.DAL\\LogisticaProject.DAL.csproj|c:\\users\\acer\\source\\repos\\logisticaproject\\logisticaproject.dal\\repostories\\abstractions\\igenericrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F86C6CB-86F6-4424-A6D2-8BD18835DBA6}|LogisticaProject.DAL\\LogisticaProject.DAL.csproj|solutionrelative:logisticaproject.dal\\repostories\\abstractions\\igenericrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F86C6CB-86F6-4424-A6D2-8BD18835DBA6}|LogisticaProject.DAL\\LogisticaProject.DAL.csproj|c:\\users\\acer\\source\\repos\\logisticaproject\\logisticaproject.dal\\repostories\\abstractions\\itransporttyperepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F86C6CB-86F6-4424-A6D2-8BD18835DBA6}|LogisticaProject.DAL\\LogisticaProject.DAL.csproj|solutionrelative:logisticaproject.dal\\repostories\\abstractions\\itransporttyperepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F86C6CB-86F6-4424-A6D2-8BD18835DBA6}|LogisticaProject.DAL\\LogisticaProject.DAL.csproj|c:\\users\\acer\\source\\repos\\logisticaproject\\logisticaproject.dal\\repostories\\abstractions\\itransportrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F86C6CB-86F6-4424-A6D2-8BD18835DBA6}|LogisticaProject.DAL\\LogisticaProject.DAL.csproj|solutionrelative:logisticaproject.dal\\repostories\\abstractions\\itransportrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|c:\\users\\acer\\source\\repos\\logisticaproject\\logistica.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|solutionrelative:logistica.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|c:\\users\\acer\\source\\repos\\logisticaproject\\logistica.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|solutionrelative:logistica.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|c:\\users\\acer\\source\\repos\\logisticaproject\\logistica.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|solutionrelative:logistica.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|c:\\users\\acer\\source\\repos\\logisticaproject\\logistica.mvc\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|solutionrelative:logistica.mvc\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F86C6CB-86F6-4424-A6D2-8BD18835DBA6}|LogisticaProject.DAL\\LogisticaProject.DAL.csproj|c:\\users\\acer\\source\\repos\\logisticaproject\\logisticaproject.dal\\repostories\\implementations\\transportrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F86C6CB-86F6-4424-A6D2-8BD18835DBA6}|LogisticaProject.DAL\\LogisticaProject.DAL.csproj|solutionrelative:logisticaproject.dal\\repostories\\implementations\\transportrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F86C6CB-86F6-4424-A6D2-8BD18835DBA6}|LogisticaProject.DAL\\LogisticaProject.DAL.csproj|c:\\users\\acer\\source\\repos\\logisticaproject\\logisticaproject.dal\\repostories\\implementations\\transporttyperepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F86C6CB-86F6-4424-A6D2-8BD18835DBA6}|LogisticaProject.DAL\\LogisticaProject.DAL.csproj|solutionrelative:logisticaproject.dal\\repostories\\implementations\\transporttyperepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F86C6CB-86F6-4424-A6D2-8BD18835DBA6}|LogisticaProject.DAL\\LogisticaProject.DAL.csproj|c:\\users\\acer\\source\\repos\\logisticaproject\\logisticaproject.dal\\migrations\\20250107070206_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F86C6CB-86F6-4424-A6D2-8BD18835DBA6}|LogisticaProject.DAL\\LogisticaProject.DAL.csproj|solutionrelative:logisticaproject.dal\\migrations\\20250107070206_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88E945D-341F-4913-B7D3-8DF971AE0012}|LogisticaProject.Core\\LogisticaProject.Core.csproj|c:\\users\\acer\\source\\repos\\logisticaproject\\logisticaproject.core\\entities\\transporttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88E945D-341F-4913-B7D3-8DF971AE0012}|LogisticaProject.Core\\LogisticaProject.Core.csproj|solutionrelative:logisticaproject.core\\entities\\transporttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88E945D-341F-4913-B7D3-8DF971AE0012}|LogisticaProject.Core\\LogisticaProject.Core.csproj|c:\\users\\acer\\source\\repos\\logisticaproject\\logisticaproject.core\\entities\\baseauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88E945D-341F-4913-B7D3-8DF971AE0012}|LogisticaProject.Core\\LogisticaProject.Core.csproj|solutionrelative:logisticaproject.core\\entities\\baseauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|c:\\users\\acer\\source\\repos\\logisticaproject\\logistica.mvc\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|solutionrelative:logistica.mvc\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|c:\\users\\acer\\source\\repos\\logisticaproject\\logistica.mvc\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|solutionrelative:logistica.mvc\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|c:\\users\\acer\\source\\repos\\logisticaproject\\logistica.mvc\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D81B79-E5DF-4D9B-9024-DE90DDDEC348}|Logistica.MVC\\Logistica.MVC.csproj|solutionrelative:logistica.mvc\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F86C6CB-86F6-4424-A6D2-8BD18835DBA6}|LogisticaProject.DAL\\LogisticaProject.DAL.csproj|c:\\users\\acer\\source\\repos\\logisticaproject\\logisticaproject.dal\\migrations\\20250110220644_appuseradded2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F86C6CB-86F6-4424-A6D2-8BD18835DBA6}|LogisticaProject.DAL\\LogisticaProject.DAL.csproj|solutionrelative:logisticaproject.dal\\migrations\\20250110220644_appuseradded2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F86C6CB-86F6-4424-A6D2-8BD18835DBA6}|LogisticaProject.DAL\\LogisticaProject.DAL.csproj|c:\\users\\acer\\source\\repos\\logisticaproject\\logisticaproject.dal\\migrations\\20250110220436_appuseradded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F86C6CB-86F6-4424-A6D2-8BD18835DBA6}|LogisticaProject.DAL\\LogisticaProject.DAL.csproj|solutionrelative:logisticaproject.dal\\migrations\\20250110220436_appuseradded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Logistica.MVC\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Logistica.MVC\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T21:22:23.177Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransportService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\LogisticaProject.BL\\Services\\Implementations\\TransportService.cs",
+              "RelativeDocumentMoniker": "LogisticaProject.BL\\Services\\Implementations\\TransportService.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\LogisticaProject.BL\\Services\\Implementations\\TransportService.cs",
+              "RelativeToolTip": "LogisticaProject.BL\\Services\\Implementations\\TransportService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAvwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T08:36:52.799Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITransportService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\LogisticaProject.BL\\Services\\Abstractions\\ITransportService.cs",
+              "RelativeDocumentMoniker": "LogisticaProject.BL\\Services\\Abstractions\\ITransportService.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\LogisticaProject.BL\\Services\\Abstractions\\ITransportService.cs",
+              "RelativeToolTip": "LogisticaProject.BL\\Services\\Abstractions\\ITransportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T21:18:24.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Logistica.MVC\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Logistica.MVC\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAkwCsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T20:47:04.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenericRepostory.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\LogisticaProject.DAL\\Repostories\\Implementations\\GenericRepostory.cs",
+              "RelativeDocumentMoniker": "LogisticaProject.DAL\\Repostories\\Implementations\\GenericRepostory.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\LogisticaProject.DAL\\Repostories\\Implementations\\GenericRepostory.cs",
+              "RelativeToolTip": "LogisticaProject.DAL\\Repostories\\Implementations\\GenericRepostory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADgvxYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T07:59:02.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Logistica.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\Program.cs",
+              "RelativeToolTip": "Logistica.MVC\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T21:01:19.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Logistica.MVC\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Logistica.MVC\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T21:27:14.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\Areas\\Admin\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "Logistica.MVC\\Areas\\Admin\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\Areas\\Admin\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "Logistica.MVC\\Areas\\Admin\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACwAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-09T21:29:14.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "Logistica.MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\appsettings.json",
+              "RelativeToolTip": "Logistica.MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-06T21:01:18.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppUserCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\LogisticaProject.BL\\DTOs\\AppUserCreateDto.cs",
+              "RelativeDocumentMoniker": "LogisticaProject.BL\\DTOs\\AppUserCreateDto.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\LogisticaProject.BL\\DTOs\\AppUserCreateDto.cs",
+              "RelativeToolTip": "LogisticaProject.BL\\DTOs\\AppUserCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T21:45:43.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppUserLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\LogisticaProject.BL\\DTOs\\AppUserLoginDto.cs",
+              "RelativeDocumentMoniker": "LogisticaProject.BL\\DTOs\\AppUserLoginDto.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\LogisticaProject.BL\\DTOs\\AppUserLoginDto.cs",
+              "RelativeToolTip": "LogisticaProject.BL\\DTOs\\AppUserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T12:14:46.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Transport.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\LogisticaProject.Core\\Entities\\Transport.cs",
+              "RelativeDocumentMoniker": "LogisticaProject.Core\\Entities\\Transport.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\LogisticaProject.Core\\Entities\\Transport.cs",
+              "RelativeToolTip": "LogisticaProject.Core\\Entities\\Transport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T06:43:26.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\LogisticaProject.Core\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "LogisticaProject.Core\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\LogisticaProject.Core\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "LogisticaProject.Core\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T06:40:06.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "Logistica.MVC\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "Logistica.MVC\\Controllers\\AboutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T21:15:10.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Logistica.MVC\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Logistica.MVC\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAAAK4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T21:28:11.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Logistica.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Logistica.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAAIAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T21:02:43.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Logistica.MVC\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Logistica.MVC\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAIoAAAAAAAAAAADwv58AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-11T12:03:58.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Logistica.MVC\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Logistica.MVC\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-09T20:44:49.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Logistica.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Logistica.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T21:02:08.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20250110220436_appuseradded.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\LogisticaProject.DAL\\Migrations\\20250110220436_appuseradded.cs",
+              "RelativeDocumentMoniker": "LogisticaProject.DAL\\Migrations\\20250110220436_appuseradded.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\LogisticaProject.DAL\\Migrations\\20250110220436_appuseradded.cs",
+              "RelativeToolTip": "LogisticaProject.DAL\\Migrations\\20250110220436_appuseradded.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T22:04:36.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20250110220644_appuseradded2.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\LogisticaProject.DAL\\Migrations\\20250110220644_appuseradded2.cs",
+              "RelativeDocumentMoniker": "LogisticaProject.DAL\\Migrations\\20250110220644_appuseradded2.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\LogisticaProject.DAL\\Migrations\\20250110220644_appuseradded2.cs",
+              "RelativeToolTip": "LogisticaProject.DAL\\Migrations\\20250110220644_appuseradded2.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T22:06:44.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppUserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\LogisticaProject.BL\\Profiles\\AppUserProfile.cs",
+              "RelativeDocumentMoniker": "LogisticaProject.BL\\Profiles\\AppUserProfile.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\LogisticaProject.BL\\Profiles\\AppUserProfile.cs",
+              "RelativeToolTip": "LogisticaProject.BL\\Profiles\\AppUserProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T22:11:40.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Logistica.MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Logistica.MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T21:02:56.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Logistica.MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Logistica.MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T21:03:05.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\LogisticaProject.Core\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "LogisticaProject.Core\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\LogisticaProject.Core\\Entities\\AppUser.cs",
+              "RelativeToolTip": "LogisticaProject.Core\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T21:40:46.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Logistica.MVC\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Logistica.MVC\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-09T20:48:01.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "register.css",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\wwwroot\\css\\register.css",
+              "RelativeDocumentMoniker": "Logistica.MVC\\wwwroot\\css\\register.css",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\wwwroot\\css\\register.css",
+              "RelativeToolTip": "Logistica.MVC\\wwwroot\\css\\register.css",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAUwIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-10T21:32:44.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TransportProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\LogisticaProject.BL\\Profiles\\TransportProfile.cs",
+              "RelativeDocumentMoniker": "LogisticaProject.BL\\Profiles\\TransportProfile.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\LogisticaProject.BL\\Profiles\\TransportProfile.cs",
+              "RelativeToolTip": "LogisticaProject.BL\\Profiles\\TransportProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T21:41:39.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "Logistica.MVC\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "Logistica.MVC\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-10T21:31:45.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Logistica.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Logistica.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T21:02:19.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\Areas\\Admin\\Views\\Home\\Update.cshtml",
+              "RelativeDocumentMoniker": "Logistica.MVC\\Areas\\Admin\\Views\\Home\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\Areas\\Admin\\Views\\Home\\Update.cshtml",
+              "RelativeToolTip": "Logistica.MVC\\Areas\\Admin\\Views\\Home\\Update.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-09T22:04:08.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LogisticaProject.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\LogisticaProject.Core\\LogisticaProject.Core.csproj",
+              "RelativeDocumentMoniker": "LogisticaProject.Core\\LogisticaProject.Core.csproj",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\LogisticaProject.Core\\LogisticaProject.Core.csproj",
+              "RelativeToolTip": "LogisticaProject.Core\\LogisticaProject.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-09T19:58:14.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ITransportTypeRepostory.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\LogisticaProject.DAL\\Repostories\\Abstractions\\ITransportTypeRepostory.cs",
+              "RelativeDocumentMoniker": "LogisticaProject.DAL\\Repostories\\Abstractions\\ITransportTypeRepostory.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\LogisticaProject.DAL\\Repostories\\Abstractions\\ITransportTypeRepostory.cs",
+              "RelativeToolTip": "LogisticaProject.DAL\\Repostories\\Abstractions\\ITransportTypeRepostory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T08:18:53.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IGenericRepostory.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\LogisticaProject.DAL\\Repostories\\Abstractions\\IGenericRepostory.cs",
+              "RelativeDocumentMoniker": "LogisticaProject.DAL\\Repostories\\Abstractions\\IGenericRepostory.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\LogisticaProject.DAL\\Repostories\\Abstractions\\IGenericRepostory.cs",
+              "RelativeToolTip": "LogisticaProject.DAL\\Repostories\\Abstractions\\IGenericRepostory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T07:58:06.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ITransportRepostory.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\LogisticaProject.DAL\\Repostories\\Abstractions\\ITransportRepostory.cs",
+              "RelativeDocumentMoniker": "LogisticaProject.DAL\\Repostories\\Abstractions\\ITransportRepostory.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\LogisticaProject.DAL\\Repostories\\Abstractions\\ITransportRepostory.cs",
+              "RelativeToolTip": "LogisticaProject.DAL\\Repostories\\Abstractions\\ITransportRepostory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T08:01:35.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Logistica.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Logistica.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-09T20:49:22.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Logistica.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Logistica.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAIBJwCgAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-09T20:48:45.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Logistica.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Logistica.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-09T20:49:06.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "Logistica.MVC\\Controllers\\ServiceController.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\Controllers\\ServiceController.cs",
+              "RelativeToolTip": "Logistica.MVC\\Controllers\\ServiceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T21:21:50.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "TransportRepostory.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\LogisticaProject.DAL\\Repostories\\Implementations\\TransportRepostory.cs",
+              "RelativeDocumentMoniker": "LogisticaProject.DAL\\Repostories\\Implementations\\TransportRepostory.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\LogisticaProject.DAL\\Repostories\\Implementations\\TransportRepostory.cs",
+              "RelativeToolTip": "LogisticaProject.DAL\\Repostories\\Implementations\\TransportRepostory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T08:02:24.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "TransportTypeRepostory.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\LogisticaProject.DAL\\Repostories\\Implementations\\TransportTypeRepostory.cs",
+              "RelativeDocumentMoniker": "LogisticaProject.DAL\\Repostories\\Implementations\\TransportTypeRepostory.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\LogisticaProject.DAL\\Repostories\\Implementations\\TransportTypeRepostory.cs",
+              "RelativeToolTip": "LogisticaProject.DAL\\Repostories\\Implementations\\TransportTypeRepostory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T08:19:35.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20250107070206_init.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\LogisticaProject.DAL\\Migrations\\20250107070206_init.cs",
+              "RelativeDocumentMoniker": "LogisticaProject.DAL\\Migrations\\20250107070206_init.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\LogisticaProject.DAL\\Migrations\\20250107070206_init.cs",
+              "RelativeToolTip": "LogisticaProject.DAL\\Migrations\\20250107070206_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T07:02:06.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "TransportType.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\LogisticaProject.Core\\Entities\\TransportType.cs",
+              "RelativeDocumentMoniker": "LogisticaProject.Core\\Entities\\TransportType.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\LogisticaProject.Core\\Entities\\TransportType.cs",
+              "RelativeToolTip": "LogisticaProject.Core\\Entities\\TransportType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T06:42:03.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "BaseAuditableEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\LogisticaProject.Core\\Entities\\BaseAuditableEntity.cs",
+              "RelativeDocumentMoniker": "LogisticaProject.Core\\Entities\\BaseAuditableEntity.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\LogisticaProject.Core\\Entities\\BaseAuditableEntity.cs",
+              "RelativeToolTip": "LogisticaProject.Core\\Entities\\BaseAuditableEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T06:40:28.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\Views\\Service\\Index.cshtml",
+              "RelativeDocumentMoniker": "Logistica.MVC\\Views\\Service\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\Views\\Service\\Index.cshtml",
+              "RelativeToolTip": "Logistica.MVC\\Views\\Service\\Index.cshtml",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAowI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T21:21:59.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "Logistica.MVC\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "Logistica.MVC\\Views\\About\\Index.cshtml",
+              "ViewState": "AgIAALIAAAAAAAAAAAAowM0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T21:20:14.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "Logistica.MVC\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\LogisticaProject\\Logistica.MVC\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "Logistica.MVC\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAowEMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T21:22:30.259Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

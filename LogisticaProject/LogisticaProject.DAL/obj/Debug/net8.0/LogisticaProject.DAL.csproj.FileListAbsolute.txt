@@ -1,0 +1,17 @@
+C:\Users\ACER\source\repos\LogisticaProject\LogisticaProject.DAL\bin\Debug\net8.0\LogisticaProject.DAL.deps.json
+C:\Users\ACER\source\repos\LogisticaProject\LogisticaProject.DAL\bin\Debug\net8.0\LogisticaProject.DAL.runtimeconfig.json
+C:\Users\ACER\source\repos\LogisticaProject\LogisticaProject.DAL\bin\Debug\net8.0\LogisticaProject.DAL.dll
+C:\Users\ACER\source\repos\LogisticaProject\LogisticaProject.DAL\bin\Debug\net8.0\LogisticaProject.DAL.pdb
+C:\Users\ACER\source\repos\LogisticaProject\LogisticaProject.DAL\bin\Debug\net8.0\LogisticaProject.Core.dll
+C:\Users\ACER\source\repos\LogisticaProject\LogisticaProject.DAL\bin\Debug\net8.0\LogisticaProject.Core.pdb
+C:\Users\ACER\source\repos\LogisticaProject\LogisticaProject.DAL\obj\Debug\net8.0\LogisticaProject.DAL.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\LogisticaProject\LogisticaProject.DAL\obj\Debug\net8.0\LogisticaProject.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\LogisticaProject\LogisticaProject.DAL\obj\Debug\net8.0\LogisticaProject.DAL.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\LogisticaProject\LogisticaProject.DAL\obj\Debug\net8.0\LogisticaProject.DAL.AssemblyInfo.cs
+C:\Users\ACER\source\repos\LogisticaProject\LogisticaProject.DAL\obj\Debug\net8.0\LogisticaProject.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\LogisticaProject\LogisticaProject.DAL\obj\Debug\net8.0\Logistic.935336AF.Up2Date
+C:\Users\ACER\source\repos\LogisticaProject\LogisticaProject.DAL\obj\Debug\net8.0\LogisticaProject.DAL.dll
+C:\Users\ACER\source\repos\LogisticaProject\LogisticaProject.DAL\obj\Debug\net8.0\refint\LogisticaProject.DAL.dll
+C:\Users\ACER\source\repos\LogisticaProject\LogisticaProject.DAL\obj\Debug\net8.0\LogisticaProject.DAL.pdb
+C:\Users\ACER\source\repos\LogisticaProject\LogisticaProject.DAL\obj\Debug\net8.0\LogisticaProject.DAL.genruntimeconfig.cache
+C:\Users\ACER\source\repos\LogisticaProject\LogisticaProject.DAL\obj\Debug\net8.0\ref\LogisticaProject.DAL.dll

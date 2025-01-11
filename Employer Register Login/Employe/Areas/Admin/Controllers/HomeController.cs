@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore;
 namespace Employe.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    [Authorize(Roles ="Admin,Manager")]
+    //[Authorize(Roles ="Admin,Manager")]
     public class HomeController : Controller
     {
         private readonly AppDbContext _context;
@@ -24,6 +24,7 @@ namespace Employe.Areas.Admin.Controllers
             IEnumerable<Order> orders = _context.Orders.ToList();
             return View(orders);
         }
+
         [HttpGet]
         public IActionResult Create()
         {

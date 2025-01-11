@@ -1,0 +1,17 @@
+C:\Users\ACER\source\repos\LogisticaProject\LogisticaProject.BL\bin\Debug\net8.0\LogisticaProject.BL.deps.json
+C:\Users\ACER\source\repos\LogisticaProject\LogisticaProject.BL\bin\Debug\net8.0\LogisticaProject.BL.dll
+C:\Users\ACER\source\repos\LogisticaProject\LogisticaProject.BL\bin\Debug\net8.0\LogisticaProject.BL.pdb
+C:\Users\ACER\source\repos\LogisticaProject\LogisticaProject.BL\bin\Debug\net8.0\LogisticaProject.Core.dll
+C:\Users\ACER\source\repos\LogisticaProject\LogisticaProject.BL\bin\Debug\net8.0\LogisticaProject.DAL.dll
+C:\Users\ACER\source\repos\LogisticaProject\LogisticaProject.BL\bin\Debug\net8.0\LogisticaProject.DAL.pdb
+C:\Users\ACER\source\repos\LogisticaProject\LogisticaProject.BL\bin\Debug\net8.0\LogisticaProject.Core.pdb
+C:\Users\ACER\source\repos\LogisticaProject\LogisticaProject.BL\obj\Debug\net8.0\LogisticaProject.BL.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\LogisticaProject\LogisticaProject.BL\obj\Debug\net8.0\LogisticaProject.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\LogisticaProject\LogisticaProject.BL\obj\Debug\net8.0\LogisticaProject.BL.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\LogisticaProject\LogisticaProject.BL\obj\Debug\net8.0\LogisticaProject.BL.AssemblyInfo.cs
+C:\Users\ACER\source\repos\LogisticaProject\LogisticaProject.BL\obj\Debug\net8.0\LogisticaProject.BL.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\LogisticaProject\LogisticaProject.BL\obj\Debug\net8.0\Logistic.9EB11F84.Up2Date
+C:\Users\ACER\source\repos\LogisticaProject\LogisticaProject.BL\obj\Debug\net8.0\LogisticaProject.BL.dll
+C:\Users\ACER\source\repos\LogisticaProject\LogisticaProject.BL\obj\Debug\net8.0\refint\LogisticaProject.BL.dll
+C:\Users\ACER\source\repos\LogisticaProject\LogisticaProject.BL\obj\Debug\net8.0\LogisticaProject.BL.pdb
+C:\Users\ACER\source\repos\LogisticaProject\LogisticaProject.BL\obj\Debug\net8.0\ref\LogisticaProject.BL.dll

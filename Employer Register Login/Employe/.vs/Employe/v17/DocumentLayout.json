@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\MVC\\Employer Register Login\\Employe\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{335EE96E-CE93-4AB9-B5A6-305866D50B7B}|Employe.csproj|c:\\users\\acer\\desktop\\mvc\\employer register login\\employe\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335EE96E-CE93-4AB9-B5A6-305866D50B7B}|Employe.csproj|solutionrelative:areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335EE96E-CE93-4AB9-B5A6-305866D50B7B}|Employe.csproj|c:\\users\\acer\\desktop\\mvc\\employer register login\\employe\\abstraction\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335EE96E-CE93-4AB9-B5A6-305866D50B7B}|Employe.csproj|solutionrelative:abstraction\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{335EE96E-CE93-4AB9-B5A6-305866D50B7B}|Employe.csproj|c:\\users\\acer\\desktop\\mvc\\employer register login\\employe\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{335EE96E-CE93-4AB9-B5A6-305866D50B7B}|Employe.csproj|solutionrelative:controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{335EE96E-CE93-4AB9-B5A6-305866D50B7B}|Employe.csproj|c:\\users\\acer\\desktop\\mvc\\employer register login\\employe\\utilities\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{335EE96E-CE93-4AB9-B5A6-305866D50B7B}|Employe.csproj|solutionrelative:utilities\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{335EE96E-CE93-4AB9-B5A6-305866D50B7B}|Employe.csproj|c:\\users\\acer\\desktop\\mvc\\employer register login\\employe\\abstraction\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{335EE96E-CE93-4AB9-B5A6-305866D50B7B}|Employe.csproj|solutionrelative:abstraction\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "AccountsController.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\Employer Register Login\\Employe\\Controllers\\AccountsController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountsController.cs",
               "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\Employer Register Login\\Employe\\Controllers\\AccountsController.cs",
               "RelativeToolTip": "Controllers\\AccountsController.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAgwFIAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAswIgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T23:24:16.181Z",
               "IsPinned": true,
@@ -40,7 +44,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "EmailService.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\Employer Register Login\\Employe\\Utilities\\EmailService.cs",
               "RelativeDocumentMoniker": "Utilities\\EmailService.cs",
@@ -49,16 +53,32 @@
               "ViewState": "AgIAABQAAAAAAAAAAAAqwCoAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T23:24:26.529Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\Employer Register Login\\Employe\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC\\Employer Register Login\\Employe\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T15:45:05.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "IEmailService.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC\\Employer Register Login\\Employe\\Abstraction\\IEmailService.cs",
               "RelativeDocumentMoniker": "Abstraction\\IEmailService.cs",
