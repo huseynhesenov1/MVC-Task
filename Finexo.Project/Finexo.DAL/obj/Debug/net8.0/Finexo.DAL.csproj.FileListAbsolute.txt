@@ -1,0 +1,17 @@
+C:\Users\ACER\source\repos\Finexo.Project\Finexo.DAL\bin\Debug\net8.0\Finexo.DAL.deps.json
+C:\Users\ACER\source\repos\Finexo.Project\Finexo.DAL\bin\Debug\net8.0\Finexo.DAL.dll
+C:\Users\ACER\source\repos\Finexo.Project\Finexo.DAL\bin\Debug\net8.0\Finexo.DAL.pdb
+C:\Users\ACER\source\repos\Finexo.Project\Finexo.DAL\bin\Debug\net8.0\Finexo.Core.dll
+C:\Users\ACER\source\repos\Finexo.Project\Finexo.DAL\bin\Debug\net8.0\Finexo.Core.pdb
+C:\Users\ACER\source\repos\Finexo.Project\Finexo.DAL\obj\Debug\net8.0\Finexo.DAL.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Finexo.Project\Finexo.DAL\obj\Debug\net8.0\Finexo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\Finexo.Project\Finexo.DAL\obj\Debug\net8.0\Finexo.DAL.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Finexo.Project\Finexo.DAL\obj\Debug\net8.0\Finexo.DAL.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Finexo.Project\Finexo.DAL\obj\Debug\net8.0\Finexo.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Finexo.Project\Finexo.DAL\obj\Debug\net8.0\Finexo.DAL.csproj.Up2Date
+C:\Users\ACER\source\repos\Finexo.Project\Finexo.DAL\obj\Debug\net8.0\Finexo.DAL.dll
+C:\Users\ACER\source\repos\Finexo.Project\Finexo.DAL\obj\Debug\net8.0\refint\Finexo.DAL.dll
+C:\Users\ACER\source\repos\Finexo.Project\Finexo.DAL\obj\Debug\net8.0\Finexo.DAL.pdb
+C:\Users\ACER\source\repos\Finexo.Project\Finexo.DAL\obj\Debug\net8.0\ref\Finexo.DAL.dll
+C:\Users\ACER\source\repos\Finexo.Project\Finexo.DAL\bin\Debug\net8.0\Finexo.DAL.runtimeconfig.json
+C:\Users\ACER\source\repos\Finexo.Project\Finexo.DAL\obj\Debug\net8.0\Finexo.DAL.genruntimeconfig.cache

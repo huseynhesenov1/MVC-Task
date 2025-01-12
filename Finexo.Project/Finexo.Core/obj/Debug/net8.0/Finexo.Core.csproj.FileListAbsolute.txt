@@ -1,0 +1,12 @@
+C:\Users\ACER\source\repos\Finexo.Project\Finexo.Core\bin\Debug\net8.0\Finexo.Core.deps.json
+C:\Users\ACER\source\repos\Finexo.Project\Finexo.Core\bin\Debug\net8.0\Finexo.Core.dll
+C:\Users\ACER\source\repos\Finexo.Project\Finexo.Core\bin\Debug\net8.0\Finexo.Core.pdb
+C:\Users\ACER\source\repos\Finexo.Project\Finexo.Core\obj\Debug\net8.0\Finexo.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\Finexo.Project\Finexo.Core\obj\Debug\net8.0\Finexo.Core.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Finexo.Project\Finexo.Core\obj\Debug\net8.0\Finexo.Core.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Finexo.Project\Finexo.Core\obj\Debug\net8.0\Finexo.Core.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Finexo.Project\Finexo.Core\obj\Debug\net8.0\Finexo.Core.dll
+C:\Users\ACER\source\repos\Finexo.Project\Finexo.Core\obj\Debug\net8.0\refint\Finexo.Core.dll
+C:\Users\ACER\source\repos\Finexo.Project\Finexo.Core\obj\Debug\net8.0\Finexo.Core.pdb
+C:\Users\ACER\source\repos\Finexo.Project\Finexo.Core\obj\Debug\net8.0\ref\Finexo.Core.dll
+C:\Users\ACER\source\repos\Finexo.Project\Finexo.Core\obj\Debug\net8.0\Finexo.Core.csproj.AssemblyReference.cache

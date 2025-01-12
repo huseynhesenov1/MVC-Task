@@ -1,0 +1,17 @@
+C:\Users\ACER\source\repos\Finexo.Project\Finexo.BL\bin\Debug\net8.0\Finexo.BL.deps.json
+C:\Users\ACER\source\repos\Finexo.Project\Finexo.BL\bin\Debug\net8.0\Finexo.BL.dll
+C:\Users\ACER\source\repos\Finexo.Project\Finexo.BL\bin\Debug\net8.0\Finexo.BL.pdb
+C:\Users\ACER\source\repos\Finexo.Project\Finexo.BL\bin\Debug\net8.0\Finexo.Core.dll
+C:\Users\ACER\source\repos\Finexo.Project\Finexo.BL\bin\Debug\net8.0\Finexo.DAL.dll
+C:\Users\ACER\source\repos\Finexo.Project\Finexo.BL\bin\Debug\net8.0\Finexo.DAL.pdb
+C:\Users\ACER\source\repos\Finexo.Project\Finexo.BL\bin\Debug\net8.0\Finexo.Core.pdb
+C:\Users\ACER\source\repos\Finexo.Project\Finexo.BL\obj\Debug\net8.0\Finexo.BL.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Finexo.Project\Finexo.BL\obj\Debug\net8.0\Finexo.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\Finexo.Project\Finexo.BL\obj\Debug\net8.0\Finexo.BL.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Finexo.Project\Finexo.BL\obj\Debug\net8.0\Finexo.BL.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Finexo.Project\Finexo.BL\obj\Debug\net8.0\Finexo.BL.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Finexo.Project\Finexo.BL\obj\Debug\net8.0\Finexo.BL.csproj.Up2Date
+C:\Users\ACER\source\repos\Finexo.Project\Finexo.BL\obj\Debug\net8.0\Finexo.BL.dll
+C:\Users\ACER\source\repos\Finexo.Project\Finexo.BL\obj\Debug\net8.0\refint\Finexo.BL.dll
+C:\Users\ACER\source\repos\Finexo.Project\Finexo.BL\obj\Debug\net8.0\Finexo.BL.pdb
+C:\Users\ACER\source\repos\Finexo.Project\Finexo.BL\obj\Debug\net8.0\ref\Finexo.BL.dll
